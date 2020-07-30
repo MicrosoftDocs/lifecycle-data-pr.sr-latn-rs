@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Menadžer za operacije sa sistemskim centrom 2007 R2
+  description: Menadžer za operacije sa sistemskim centrom 2007 R2 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836478"
+name: Menadžer za operacije sa sistemskim centrom 2007 R2
+summary: "Menadžer za operacije sa sistemskim centrom 2007 R2 sledi smernice [za životni ciklus](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju. \n"
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/20/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 08/20/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

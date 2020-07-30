@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Framework usluge povezane sa mrežom 2,5
+  description: Microsoft 2,5 Framework usluge sa povezanim uslugama sledi smernice za osnovno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837133"
+name: Microsoft Framework usluge povezane sa mrežom 2,5
+summary: >+
+  Microsoft 2,5 Framework usluge sa povezanim uslugama sledi smernice za [Osnovno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: rukovanje redom standardni poslovni događaj 2,5, server, dobavljač usluga
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 07/26/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 07/26/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Rukovanje redom standardni poslovni događaj 2,5\n* Server\n* Dobavljača usluga"

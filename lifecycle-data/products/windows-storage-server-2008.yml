@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server za skladištenje 2008
+  description: Windows Server za skladištenje 2008 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836449"
+name: Windows Server za skladištenje 2008
+summary: >
+  Windows Server za skladištenje 2008 prati smernice [za životni ciklus](/lifecycle/policies/fixed) .
+
+
+  Ovo se primenjuje na sledeće izdanje: Basic, Basic 32-bitni, Basic 64-bitni, osnovni ugrađen, osnovni ugrađen 32-bitni, Enterprise, Enterprise, standard, standardno Ugrađeno, u radnoj grupi
+
+
+  > [!IMPORTANT]
+
+  > Ovaj proizvod je dostigao kraj podrške. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Osnovne\n* Basic 32-bitni\n* Basic 64-bitni\n* Osnovno ugrađeno\n* Osnovni ugrađeni 32-bitni\n* Enterprise\n* Enterprise je ugrađen\n* Standardni\n* Standardno ugrađeno\n* Radna grupa"
