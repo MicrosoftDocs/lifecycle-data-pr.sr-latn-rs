@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft prvi menadžer identiteta 2010
+  description: Microsoft prvi menadžer identiteta 2010 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837111"
+name: Microsoft prvi menadžer identiteta 2010
+summary: >+
+  Microsoft prvi menadžer identiteta 2010 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 10/11/2022
+content: "\n\n> [!NOTE]\n> Glavna i proširena podrška za Microsoft glavni Upravljač identitetima 2010 se proširuje kao pokazano da bi se svim kupcima obezbedio standardni vremenski okvir za prelaz životnog ciklusa."

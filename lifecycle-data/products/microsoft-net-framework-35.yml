@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 3,5
+  description: Microsoft .NET Framework 3,5 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837475"
+name: Microsoft .NET Framework 3,5
+summary: >+
+  Microsoft .NET Framework 3,5 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 11/19/2007
+  end: 10/10/2023
+  extendedEnd: 01/09/2029
+releases:
+- version: Service Pack 1
+  startDate: 11/18/2008
+  endDate: 01/09/2029
+- version: Original Release
+  startDate: 11/19/2007
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacije o proizvodu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Podrška za .NET Framework 3. x verzije pre 3,5 SP1 završena je 2011 12. \n> [!NOTE]\n> Datumi životnog ciklusa se mogu primeniti na .NET 3,5 SP1 kada se radi na Windows 10 verziji 1809, Windows Server 2019 ili novijoj verziji. Na starijim verzijama operativnog sistema Windows, .NET 3,5 SP1 usvaja životni ciklus za osnovne Windows OS."
