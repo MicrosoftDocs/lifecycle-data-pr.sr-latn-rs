@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft govorni server 2004
+  description: Microsoft govorni server 2004 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 50ebb3b700a83d7d247d368d948c2ff051a14b18
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836746"
+name: Microsoft govorni server 2004
+summary: >+
+  Microsoft govorni server 2004 sledi [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: Enterprise, standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 04/28/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 04/28/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"

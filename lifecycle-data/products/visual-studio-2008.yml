@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2008
+  description: Visual Studio 2008 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836631"
+name: Visual Studio 2008
+summary: >+
+  Visual Studio 2008 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanje: sve, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team apartman, agent za učitavanje Team test, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 02/19/2008
+  end: 04/09/2013
+  extendedEnd: 04/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 08/11/2008
+  endDate: 04/10/2018
+- version: Original Release
+  startDate: 02/19/2008
+  endDate: 10/13/2009
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Uključuje Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express i izdanja Visual Studio Team sistema\n\n## <a name=\"editions\"></a>Izdanja \n* Sve\n* Pro w/MSDN Premium\n* Profesionalni\n* Professional w/MSDN \n* Apartman tim\n* Agent za učitavanje timskih testova\n* VB Ekspres\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 sledi smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836657"
+name: Microsoft SQL Server 2005
+summary: >
+  Microsoft SQL Server 2005 sledi smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanje: kompaktan, programer, ugrađen, Enterprise, Enterprise za sisteme zasnovane na Itanium arhitekturi, Enterprise X64, Express, Ekspres sa naprednim uslugama, standard, standard za sisteme zasnovane na Itanium arhitekturi, standard X64, radna grupa
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition objavio 2007 je 19.\n\n## <a name=\"editions\"></a>Izdanja \n* Kompakt\n* Projektovanje\n* Ugrađeni\n* Enterprise\n* Enterprise za sisteme zasnovane na Itanium arhitekturi\n* Enterprise X64\n* Express\n* Ekspres sa naprednim uslugama\n* Standardni\n* Standard za sisteme zasnovane na Itanium arhitekturi\n* Standard X64\n* Radna grupa"
