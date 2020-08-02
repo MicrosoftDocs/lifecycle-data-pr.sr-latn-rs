@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alati za izradu dinamike Mobile
+  description: Alatke za razvoj u sistemu Dynamics Mobile prate smernice za životni ciklus komponenti.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836811"
+name: Alati za izradu dinamike Mobile
+summary: >+
+  Alatke za razvoj u sistemu Dynamics Mobile prate smernice za životni ciklus [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- dynamics
+policyType: component
+supportDates:
+  start: 01/12/2008
+  end: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 01/12/2008
+  endDate: 01/14/2014
+content: ''
