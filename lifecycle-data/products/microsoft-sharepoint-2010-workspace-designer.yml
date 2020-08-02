@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (radni prostor, dizajner)
+  description: Microsoft SharePoint 2010 (radni prostor, dizajner) sledi smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836509"
+name: Microsoft SharePoint 2010 (radni prostor, dizajner)
+summary: >+
+  Microsoft SharePoint 2010 (radni prostor, dizajner) sledi smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: dizajner, radni prostor
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentacija o programeru](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacija proizvoda](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Izdanja \n* Dizajner\n* Radni prostor"

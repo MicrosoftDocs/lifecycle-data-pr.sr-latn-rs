@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836497"
+name: Microsoft Visual Studio 2005
+summary: >+
+  Microsoft Visual Studio 2005 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanje: profesionalna, standardna, standardna, akademska licenca, Team Edition za stručnjake u bazi podataka, Team Edition za arhitekte softvera, Team Edition za programere softvera, Team Edition za softverske testere, apartman TEAM, agent za probni učitavanje tima, alatke za Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o vizuelnim J# podršci](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vodič za migraciju](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacije o programu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition za stručnjake za baze podataka objavljeni 2007 2.\n\n## <a name=\"editions\"></a>Izdanja \n* Profesionalni\n* Standardni\n* Standardna akademska licenca\n* Team Edition za stručnjake u bazi podataka\n* Team Edition za arhitekte softvera\n* Team Edition za programere softvera\n* Team Edition za testere softvera\n* Apartman tim\n* Agent za učitavanje timskih testova\n* Alatke za Microsoft Office System\n* VB Ekspres\n* Visual C# Express\n* Visual C++ Express\n* Vizuelni J# Express\n* Visual Web Developer Express"
