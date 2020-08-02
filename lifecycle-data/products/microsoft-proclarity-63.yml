@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Projasnoća 6,3
+  description: Microsoft Projasnoća 6,3 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836513"
+name: Microsoft Projasnoća 6,3
+summary: >+
+  Microsoft Projasnoća 6,3 sledi [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se odnosi na sledeće izdanja: analitiku server, Desktop Professional, SharePoint Viewer
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 3
+  startDate: 10/13/2009
+  endDate: 07/11/2017
+- version: Service Pack 2
+  startDate: 03/01/2009
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 07/19/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 06/01/2007
+  endDate: 10/13/2009
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Analytics server\n* Profesionalna radna površina\n* SharePoint Viewer"

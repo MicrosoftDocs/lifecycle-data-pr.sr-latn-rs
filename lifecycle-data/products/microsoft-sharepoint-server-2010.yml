@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836508"
+name: Microsoft SharePoint Server 2010
+summary: >+
+  Microsoft SharePoint Server 2010 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: usluge pristupa, sve primenljive, Excel usluge, usluge performansi
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Veze \n* [Proširenje za podršku](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Vodič za migraciju](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Datum kraja podrške ovog proizvoda produžen je od 13. oktobra, 2020 do 2021 13.\n\n## <a name=\"editions\"></a>Izdanja \n* Access usluge\n* Sve primenljive\n* Sistemu Excel Services\n* Usluge performansi"
