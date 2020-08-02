@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836771"
+name: Microsoft Office 2010
+summary: >+
+  Microsoft Office 2010 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se odnosi na sledeće izdanja: Eakademija, domaći i poslovni, domaći i studentski, lični, profesionalni, profesionalni akademski, profesionalni Plus, profesionalni plus program za kućnu upotrebu, standard, Starter
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Veze \n* [Office 2010 kraj mape podrške](/DeployOffice/office-2010-end-support-roadmap)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Eakademija\n* Kućna i poslovna\n* Dom i student\n* Lične\n* Profesionalni\n* Stručni akademski\n* Profesionalni plus\n* Profesionalni plus program za kućnu upotrebu\n* Standardni\n* Starter"

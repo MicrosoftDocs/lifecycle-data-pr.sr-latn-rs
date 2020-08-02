@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "836971"
+name: Windows Mobile 2003
+summary: >
+  Windows Mobile 2003 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanje: za džepni računar, za pametne telefone, Second Edition softver za džepni PC telefon, drugi Edition softver za smartphone uređaje
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* za džepni računar\n* za pametne telefone\n* Second Edition softver za džepni PC telefon\n* Second Edition softver za smartphone uređaje"
