@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Desktop virtuelizacija aplikacija hosting 4,6 za Windows Desktop računare
+  description: Microsoft Application virtuelizacija aplikacija 4,6 za Windows Desktop računare sledi smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837180"
+name: Microsoft Desktop virtuelizacija aplikacija hosting 4,6 za Windows Desktop računare
+summary: >+
+  Microsoft Application virtuelizacija aplikacija 4,6 za Windows Desktop računare sledi smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: za Windows Desktop računare
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pošto aplikacija-V 4,6 klijent koristi aplikaciju-V 4,5 server, aplikacija-V 4,5 server će nastaviti da bude podržana u skladu sa datumima životnog ciklusa aplikacije-V 4,6 kada se koristi sa podržanom aplikacijom-V 4,6 Client.\n\n## <a name=\"editions\"></a>Izdanja \n* za Windows Desktop računare"

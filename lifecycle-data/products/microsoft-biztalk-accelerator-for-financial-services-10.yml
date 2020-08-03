@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk akcelerator za finansijske usluge 1,0
+  description: Microsoft BizTalk akcelerator za finansijske usluge 1,0 prati smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837184"
+name: Microsoft BizTalk akcelerator za finansijske usluge 1,0
+summary: >+
+  Microsoft BizTalk akcelerator za finansijske usluge 1,0 prati smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: Enterprise, standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"

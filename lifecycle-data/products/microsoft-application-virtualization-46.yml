@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuelizacija aplikacije Microsoft Application 4,6
+  description: Virtuelizacija aplikacije Microsoft Application 4,6 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837186"
+name: Virtuelizacija aplikacije Microsoft Application 4,6
+summary: >+
+  Virtuelizacija aplikacije Microsoft Application 4,6 prati [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: za usluge udaljene radne površine, za Windows Desktop računare
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu i migraciji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Vodič za migraciju](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pošto aplikacija-V 4,6 klijent koristi aplikaciju-V 4,5 server, aplikacija-V 4,5 server će nastaviti da bude podržana u skladu sa datumima životnog ciklusa aplikacije-V 4,6 kada se koristi sa podržanom aplikacijom-V 4,6 Client.\n\n## <a name=\"editions\"></a>Izdanja \n* za usluge udaljene radne površine\n* za Windows Desktop računare\n* Izrazite"

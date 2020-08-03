@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft korisnički okvir za negu korisnika 2005 .NET 2,0 Edition
+  description: Microsoft Framework za brigu o klijentima 2005 .NET 2,0 Edition sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837128"
+name: Microsoft korisnički okvir za negu korisnika 2005 .NET 2,0 Edition
+summary: >
+  Microsoft Framework za brigu o klijentima 2005 .NET 2,0 Edition sledi [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška je prekinuta. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 11/11/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Original Release
+  startDate: 11/11/2006
+  endDate: 01/10/2017
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
