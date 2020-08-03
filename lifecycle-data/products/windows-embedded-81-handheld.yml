@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows ugrađena 8,1 ručni
+  description: Windows ugrađen 8,1 ručni sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862280"
+name: Windows ugrađena 8,1 ručni
+summary: >
+  Windows ugrađen 8,1 ručni sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Ako vaša organizacija i dalje održava ove platforme i ima dodatna pitanja, kontaktirajte tim naloga.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows 10 puno](/windows/iot-core/windows-iot-core)"

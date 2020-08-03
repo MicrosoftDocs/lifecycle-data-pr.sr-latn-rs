@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinamika 365 za finansije i operacije
+  description: Dinamika 365 za finansije i operacije usledila je posle moderne politike životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862084"
+name: Dinamika 365 za finansije i operacije
+summary: >+
+  Dinamika 365 za finansije i operacije usledila je posle [moderne](/lifecycle/policies/modern) politike životnog ciklusa.
+
+
+  Ovo se primenjuje na sledeće izdanja: Enterprise
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>Veze \n* [Microsoft Dynamics 365 Vodič](https://roadmap.dynamics.com/)\n* [Informacije o servisiranju](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistemski zahtevi](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise"

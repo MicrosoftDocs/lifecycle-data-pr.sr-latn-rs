@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server za skladištenje 2016
+  description: Windows Server za skladištenje 2016 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862007"
+name: Windows Server za skladištenje 2016
+summary: >+
+  Windows Server za skladištenje 2016 prati smernice [za životni ciklus](/lifecycle/policies/fixed) .
+
+
+  Ovo se primenjuje na sledeće izdanja: standard, radna grupa
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu-Windows proizvodi](/lifecycle/faq/windows)\n* [Informacije o proizvodu](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni\n* Radna grupa"

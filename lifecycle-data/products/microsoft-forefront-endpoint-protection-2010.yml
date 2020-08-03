@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft zaštita krajnje tačke 2010
+  description: Microsoft-ova zaštita krajnje tačke 2010 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862121"
+name: Microsoft zaštita krajnje tačke 2010
+summary: >
+  Microsoft-ova zaštita krajnje tačke 2010 prati [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška je prekinuta. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Korisnici moraju da ostanu aktuelni u potpunosti sa najnovijom ažuriranjem platforme za zaštitu od malvera da bi bili potpuno podržani. Zaštita krajnje tačke 2010 je obuhvaćena istom politikom životnog ciklusa kao i upravljač konfiguracije sistema 2007 za glavne i proširene podrške."

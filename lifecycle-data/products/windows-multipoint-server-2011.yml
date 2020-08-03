@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows MultiPoint server 2011
+  description: Windows MultiPoint server 2011 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862048"
+name: Windows MultiPoint server 2011
+summary: >+
+  Windows MultiPoint server 2011 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: Premium, standardni
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/12/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release
+  startDate: 05/12/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/windows-server/get-started/installation-and-upgrade)\n* [Informacije o proizvodu](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Premium\n* Standardni"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Agent za primenu 2013
+  description: Microsoft Agent za primenu 2013 prati smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861949"
+name: Microsoft Agent za primenu 2013
+summary: >+
+  Microsoft Agent za primenu 2013 prati smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n\n> [!NOTE]\n> Za agenta za primenu 2013, ispravka 4 će biti podržana po smernicama za smernice do 4/9/2024."
