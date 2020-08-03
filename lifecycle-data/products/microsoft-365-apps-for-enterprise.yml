@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365 aplikacije za Enterprise
+  description: Microsoft 365 aplikacije za Enterprise prate savremene smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "861962"
+name: Microsoft 365 aplikacije za Enterprise
+summary: >+
+  Microsoft 365 aplikacije za Enterprise prate [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Veze \n* [Matrica podrške za konfigurisanje sistema Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Sistemski zahtevi](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informacije o servisiranju](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> Ovaj proizvod je prethodno nazvan Office 365 ProPlus."

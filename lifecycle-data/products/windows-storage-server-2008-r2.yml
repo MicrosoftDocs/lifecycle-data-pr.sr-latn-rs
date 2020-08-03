@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server za skladištenje 2008 R2
+  description: Windows Server za skladištenje 2008 R2 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862178"
+name: Windows Server za skladištenje 2008 R2
+summary: >
+  Windows Server za skladištenje 2008 R2 sledi smernice [za životni ciklus](/lifecycle/policies/fixed) .
+
+
+  Ovo se primenjuje na sledeće izdanja: Essentials, standard
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/20/2010
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 12/20/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Veze \n* [Kraj informacija o podršci](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Vodič za migraciju](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Najčešća pitanja o bezbednosnoj ispravci](/lifecycle/faq/extended-security-updates)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials Edition objavljen 2011 28.\n\n## <a name=\"editions\"></a>Izdanja \n* Osnovno\n* Standardni"

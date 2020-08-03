@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Microsoft Office 2013 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862257"
+name: Microsoft Office 2013
+summary: >+
+  Microsoft Office 2013 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se odnosi na sledeće izdanja: Home i poslovni, domaći i studentski, profesionalni, profesionalni Plus, profesionalni plus program za kućnu upotrebu, standardni, Web Apps server
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Servisni paket 1 se ne primenjuje na server Web Apps Edition. \n\n## <a name=\"editions\"></a>Izdanja \n* Kućna i poslovna\n* Dom i student\n* Profesionalni\n* Profesionalni plus\n* Profesionalni plus program za kućnu upotrebu\n* Standardni\n* Server Web aplikacija"

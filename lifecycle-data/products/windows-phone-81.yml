@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8,1
+  description: Windows Phone 8,1 sledi smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862102"
+name: Windows Phone 8,1
+summary: >
+  Windows Phone 8,1 sledi smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows Phone 8,1 najčešća pitanja](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft će učiniti ispravke dostupnim za operativni sistem, uključujući bezbednosne ispravke, najmanje 36 meseci od datuma početka životnog ciklusa. Ove ispravke će biti postepene, sa svakom ispravkom ugrađenom na dopunu koja je prethodila. Potrebno je da korisnici instaliraju svaku ispravku kako bi ostali podržani. Raspodelu ovih postepenih ispravki može kontrolisati mobilni operater ili proizvođač telefona sa kojeg ste kupili telefon, a instalacija će zahtevati da telefon ima prethodne ispravke. Ažuriranje dostupnosti će se razlikovati i po mogućnostima zemlje, regiona i hardvera."

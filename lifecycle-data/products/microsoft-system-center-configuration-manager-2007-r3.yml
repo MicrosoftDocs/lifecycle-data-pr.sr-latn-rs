@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Upravljač konfiguracije Microsoft System Center 2007 R3
+  description: Menadžer za konfigurisanje Microsoft System Center 2007 R3 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862241"
+name: Upravljač konfiguracije Microsoft System Center 2007 R3
+summary: >
+  Menadžer za konfigurisanje Microsoft System Center 2007 R3 prati [smernice za životni](/lifecycle/policies/fixed) ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 12/19/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 12/19/2010
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Dodatni Vodič za migraciju](/mem/configmgr/core/migration/planning-for-migration)"

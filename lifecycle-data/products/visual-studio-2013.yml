@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: Visual Studio 2013 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862283"
+name: Visual Studio 2013
+summary: >+
+  Visual Studio 2013 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: agenti, svi, zajednica, Ekspres za Web, Ekspres za Windows, Express za Windows Desktop, kolektor Intellitrasa, modeliranje SDK, Multibense MFC biblioteka, Premium, Professional, Release Management, daljinska alatka, SDK, Shell (integrisana), ljuska (izolovana), istraživač timova, probni profesionalac, Ultimate, Visual C++, program za proširenja Web alata
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* Zajednice\n* Express za Web\n* Express za Windows\n* Express za Windows Desktop\n* -Kolektor Intellitrasa\n* Modeliranje SDK\n* Multiba biblioteka MFC\n* Premium\n* Profesionalni\n* Upravljanje objavljivanjem\n* Daljinske alatke\n* Sdk\n* Ljuska (integrisana)\n* Ljuska (izolovana)\n* Istraživač tima\n* Testiranje profesionalnog\n* Krajnji\n* Vizuelni C++\n* Proširenja Web alata"

@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Skype za Poslovni pregled na mreži
+  description: Skype za poslovni Internet na mreži prati savremene smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "862199"
+name: Skype za Poslovni pregled na mreži
+summary: >
+  Skype za poslovni Internet na mreži prati [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Ova usluga će se povući u penziju 2021 31. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 05/01/2015
+  end: 07/31/2021
+releases:
+- version: Original Release
+  startDate: 05/01/2015
+  endDate: 07/31/2021
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/MicrosoftTeams/upgrade-start-here)"
