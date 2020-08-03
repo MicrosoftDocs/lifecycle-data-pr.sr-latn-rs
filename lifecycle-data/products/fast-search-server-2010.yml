@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BRZ Search Server 2010 (za Internet lokacije, za interne aplikacije)
+  description: BRZ Search Server 2010 (za Internet lokacije, za interne aplikacije) sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837226"
+name: BRZ Search Server 2010 (za Internet lokacije, za interne aplikacije)
+summary: >+
+  BRZ Search Server 2010 (za Internet lokacije, za interne aplikacije) sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: interne aplikacije, Internet lokacije
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Najčešća pitanja o životnom ciklusu](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Isključuje verzije koje su prethodno podržane. Podrška za ovaj proizvod podleže uslovima njegovog preuzimanja.\n\n## <a name=\"editions\"></a>Izdanja \n* Interne aplikacije\n* Internet lokacije"
