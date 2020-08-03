@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office Live Meeting
+  description: Office Live Meeting je usledio nakon moderne smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837020"
+name: Office Live Meeting
+summary: "Office Live Meeting je usledio nakon [moderne](/lifecycle/policies/modern) smernice za životni ciklus.\n\nOvo se primenjuje na sledeće izdanja: standardni\n\n> [!IMPORTANT]\n> Podrška za ovu uslugu je prekinuta. Pogledajte dolenavedena uputstva za migraciju. \n"
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/10/2009
+  end: 12/31/2017
+releases:
+- version: Original Release
+  startDate: 04/10/2009
+  endDate: 12/31/2017
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni"
