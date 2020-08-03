@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2017
+  description: Visual Studio 2017 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871941"
+name: Visual Studio 2017
+summary: >+
+  Visual Studio 2017 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se odnosi na sledeće izdanja: agenti, alatke za izradu, Community, Enterprise, povratnu informaciju, za Mac, Intellitutrku, samostalni kolektor, alate za performanse, profesionalne, daljinske alatke, istraživač timova, test stručnjak, Visual C++
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/07/2017
+  end: 04/12/2022
+  extendedEnd: 04/13/2027
+releases:
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Veze \n* [Objavu](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informacije o servisiranju](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Pravljenje alata\n* Zajednice\n* Enterprise\n* Klijent za povratne informacije\n* za Mac\n* SAMOSTALNA kolektor Intellitrasa\n* Alatke za performanse\n* Profesionalni\n* Daljinske alatke\n* Istraživač tima\n* Testiranje profesionalnog\n* Vizuelni C++"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinamika 365 za talente
+  description: Dinamika 365 za talente prati savremenu politiku životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871908"
+name: Dinamika 365 za talente
+summary: >+
+  Dinamika 365 za talente prati [savremenu](/lifecycle/policies/modern) politiku životnog ciklusa.
+
+
+  Ovo se primenjuje na sledeće izdanja: na brodu
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Veze \n* [Sistemski zahtevi](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Vodič za migraciju](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Privlačenje i u okviru aplikacija biće ukinut 2022 2.  Osnovni HR je ponovo pokrenut kao dinamika 365 ljudskih resursa 1 februara 2020, pogledajte uputstvo za migraciju za više informacija.\n\n## <a name=\"editions\"></a>Izdanja \n* Na brodu"
