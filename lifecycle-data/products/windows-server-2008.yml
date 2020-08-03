@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 sledi smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837337"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: Datacenter, Datacenter bez Hyper-V, Enterprise, Enterprise bez Hyper-V, za sisteme zasnovane na Itanium arhitekturi, Foundation, standard, standard bez Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://aka.ms/AA1ovn4)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n* [Prošireni program za ažuriranje bezbednosti (ESU)](/lifecycle/faq/extended-security-updates)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Proširene bezbednosne ispravke (ESU) dostupne su kroz određene programe za količinsko licenciranje za Datacenter, standard, Enterprise i ugrađene izdanja ovih izdanja proizvoda, u poslednje tri godine, u odnosu na kraj podrške. Obratite se Microsoft partneru ili timu naloga da biste saznali više. \n\nDatum početka-------------------------------izdavanja----datum završetka\n\nProširena bezbednosna ispravka godine 3---01/11/2022---01/10/2023\n\nProširena bezbednosna ispravka godine 2---01/12/2021---01/11/2022\n\nProširena bezbednosna ispravka godine 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation objavljen 21 maja 2009\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter bez Hyper-V\n* Enterprise\n* Enterprise bez Hyper-V\n* za sisteme zasnovane na Itanium arhitekturi\n* Fondacija\n* Standardni\n* Standard bez Hyper-V\n* Web"

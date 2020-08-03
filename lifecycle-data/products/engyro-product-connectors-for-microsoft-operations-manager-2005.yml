@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Konektori za Microsoft poslovi Manager 2005
+  description: Konektori kompanije engyro za Microsoft operativni menadžer 2005 prati smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837235"
+name: Konektori za Microsoft poslovi Manager 2005
+summary: >+
+  Konektori kompanije engyro za Microsoft operativni menadžer 2005 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 12/31/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 01/13/2015
+content: ''

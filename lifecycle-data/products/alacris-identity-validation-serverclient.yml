@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Server za proveru identiteta (alacris)
+  description: Server za proveru valjanosti identiteta/klijent prati smernice za fiksno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3c817b079ec484ac744b3c1d50059fec448161a8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837393"
+name: Server za proveru identiteta (alacris)
+summary: >
+  Server za proveru valjanosti identiteta/klijent prati smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Podrška za ovaj proizvod je završena.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Isključuje verzije koje su prethodno podržane. Podrška za ovaj proizvod podleže uslovima njegovog preuzimanja."
