@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Framework usluge povezane sa mrežom 3,0
+  description: Microsoft 3,0 Framework usluge sa povezanim uslugama sledi smernice za osnovno životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "837130"
+name: Microsoft Framework usluge povezane sa mrežom 3,0
+summary: >+
+  Microsoft 3,0 Framework usluge sa povezanim uslugama sledi smernice za [Osnovno](/lifecycle/policies/fixed) životni ciklus.
+
+
+  Ovo se primenjuje na sledeće izdanja: standardni biznis događaj naplate, nalog za rukovanje sa standardnim poslovnim događajem, server, standardni, standardni server sa standardnim poslovnim događajima
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni poslovni događaj za naplatu\n* Standardni poslovni događaj za rukovanje redosledom\n* Server\n* Standardni\n* Standardni server sa standardnim poslovnim događajima"
