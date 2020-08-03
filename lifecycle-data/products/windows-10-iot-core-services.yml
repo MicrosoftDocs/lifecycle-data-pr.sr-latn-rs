@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 često Core Services
+  description: Windows 10 često osnovne usluge prate savremene smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871929"
+name: Windows 10 često Core Services
+summary: >+
+  Windows 10 često osnovne usluge prate [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 11/13/2018
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows 10 često Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 veoma Core Services je pretplata koja nudi softversku podršku kao uslugu, uključujući kontrolu ažuriranja sa centrom za ažuriranje uređaja i poboljšanu bezbednost pomoću programa za oporavak uređaja, sve dok koristite podržanu verziju softvera Windows 10 sa mnogo jezgra."

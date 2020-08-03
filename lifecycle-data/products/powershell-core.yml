@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PowerShell
+  description: PowerShell prati savremene smernice za životni ciklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8a266b1b67dabbffada1a481cba644726300a38b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871979"
+name: PowerShell
+summary: >+
+  PowerShell prati [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 01/19/2018
+releases:
+- version: PowerShell 7.x
+  startDate: 03/04/2020
+  endDate: 12/03/2022
+- version: PowerShell 6.x
+  startDate: 01/19/2018
+  endDate: 09/04/2020
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Za pomoćnu verziju aplikacije \"kraj datuma podrške\" Pogledajte detaljne informacije o životnom ciklusu u sistemu Information Shell u vezi sa informacijama o servisiranju."
