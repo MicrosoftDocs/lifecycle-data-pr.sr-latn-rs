@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019 za Mac
-  description: Microsoft Office 2019 za Mac prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee537a1a128351f1b720e245f9725a267dcd6df5
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Microsoft Office 2019 za Mac prati stavku fiksne smernice životnog ciklusa.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871995"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892588"
 name: Microsoft Office 2019 za Mac
 summary: >+
-  Microsoft Office 2019 za Mac prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office 2019 za Mac prati [stavku fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeće izdanja: akademski, domaći i poslovni, domaći i student, standard
+  To se odnosi na sledeća izdanja: akademski, kućni i posao, Home and student, standard
 
 products:
 - office
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Akademski\n* Kućna i poslovna\n* Dom i student\n* Standardni"
+content: "\n\n\n## <a name=\"editions\"></a>Ultimate \n* Uslovnoj\n* Home and Business\n* Home and student\n* Standardi"

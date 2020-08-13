@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Prvi kurs za Exchange Server
-  description: Osnovna bezbednost za Exchange Server prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Forefront Security za Exchange Server
+  description: Forefront Security za Exchange Server prati bezbednosne smernice životnog ciklusa.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837221"
-name: Prvi kurs za Exchange Server
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893735"
+name: Forefront Security za Exchange Server
 summary: >
-  [Osnovna](/lifecycle/policies/fixed) bezbednost za Exchange Server prati smernice za životni ciklus.
+  Forefront Security za Exchange Server prati bezbednosne [smernice životnog ciklusa](/lifecycle/policies/fixed) .
 
 
 
   > [!IMPORTANT]
 
-  > Plan za sigurnosne proizvode pod prvi brend je promenjen. Ovaj proizvod se obustavlja od 2015 31.
+  > Putokaz za sigurnosne proizvode se promenio. Ovaj proizvod se prekida od 2015 31.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Vezi \n* [Uputstva za migraciju](https://www.microsoft.com/security/business/explore/cybersecurity)"
