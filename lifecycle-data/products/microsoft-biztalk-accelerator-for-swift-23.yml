@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk akcelerator za SWIFT 2,3
-  description: Microsoft BizTalk akcelerator za SWIFT 2,3 prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b4e8c14f0cc9d8a023d62d4c8ed6521eed1f40a4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk akcelerator za BRZU 2,3
+  description: Microsoft BizTalk akcelerator za BRZU 2,3 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837168"
-name: Microsoft BizTalk akcelerator za SWIFT 2,3
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893550"
+name: Microsoft BizTalk akcelerator za BRZU 2,3
 summary: >+
-  Microsoft BizTalk akcelerator za SWIFT 2,3 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft BizTalk akcelerator za BRZU 2,3 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: Enterprise, standard
+  Ovo se odnosi na sledeća izdanja: Enterprise, standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Standardni"
+content: "\n## <a name=\"links\"></a>Vezi \n* [Smernice servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ultimate \n* Objedin\n* Standardi"
