@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP
-  description: Windows XP prati smernice za životni ciklus.
+  description: Windows XP prati fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836612"
 name: Windows XP
 summary: >
-  Windows XP prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Windows XP prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: Home, profesionalni, profesionalni za ugrađene sisteme, Starter
+  Ovo se odnosi na sledeća izdanja: Home, Professional, Professional za ugrađene sisteme, Starter
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Kuжi\n* Profesionalni\n* Stručni za ugrađene sisteme\n* Starter"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"

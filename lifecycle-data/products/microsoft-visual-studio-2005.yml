@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 sledi smernice za životni ciklus.
+  description: Microsoft Visual Studio 2005 sledi fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836497"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Visual Studio 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanje: profesionalna, standardna, standardna, akademska licenca, Team Edition za stručnjake u bazi podataka, Team Edition za arhitekte softvera, Team Edition za programere softvera, Team Edition za softverske testere, apartman TEAM, agent za probni učitavanje tima, alatke za Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Ovo se odnosi na sledeća izdanja: Professional, Standard, akademska licenca za Standard Edition, Team Edition za profesionalce za baze podataka, Team Edition za arhitekte softvera, Team Edition za projektante softvera, Team Edition za softverske testere, Team Suite, Team Test Load Agent, alatke za sistem Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o vizuelnim J# podršci](https://msdn.microsoft.com/vstudio/bb188593)\n* [Vodič za migraciju](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacije o programu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition za stručnjake za baze podataka objavljeni 2007 2.\n\n## <a name=\"editions\"></a>Izdanja \n* Profesionalni\n* Standardni\n* Standardna akademska licenca\n* Team Edition za stručnjake u bazi podataka\n* Team Edition za arhitekte softvera\n* Team Edition za programere softvera\n* Team Edition za testere softvera\n* Apartman tim\n* Agent za učitavanje timskih testova\n* Alatke za Microsoft Office System\n* VB Ekspres\n* Visual C# Express\n* Visual C++ Express\n* Vizuelni J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o Visual J# podršci](https://msdn.microsoft.com/vstudio/bb188593)\n* [Smernice za migracije](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacije o proizvodu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition za profesionalce za baze podataka izdat je 2. marta 2007.\n\n## <a name=\"editions\"></a>Izdanja \n* Professional\n* Standard\n* Standard Edition sa akademskom licencom\n* Team Edition za profesionalce za baze podataka\n* Team Edition za arhitekte softvera\n* Team Edition za projektante softvera\n* Team Edition za testere softvera\n* Team Suite\n* Team Test Load Agent\n* Alatke za sistem Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C ++ Express\n* Visual J# Express\n* Visual Web Developer Express"
