@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Autobuska usluga za Windows Server
-  description: Servisni autobus za Windows Server sledi smernice za životni ciklus komponenti.
+  title: Service Bus za Windows Server
+  description: Service Bus za Windows Server sledi smernice za životni ciklus komponenti.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862019"
-name: Autobuska usluga za Windows Server
+name: Service Bus za Windows Server
 summary: >
-  Servisni autobus za Windows Server sledi smernice za životni ciklus [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Service Bus za Windows Server sledi smernice za životni ciklus [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Kada je servisni bus 1,1 komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržana u skladu sa krajnjim datumima podrške odgovarajuće verzije SharePoint servera.
+  > Kada je Service Bus 1.1 komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržan u skladu sa datumima završetka podrške odgovarajuće verzije sistema SharePoint Server.
 products:
 - windows
 policyType: component

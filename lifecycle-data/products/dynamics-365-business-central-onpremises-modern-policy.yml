@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 poslovni prostori (savremena politika)
-  description: Dynamics 365 poslovni prostor (savremena politika) prati savremenu politiku životnog ciklusa.
+  title: Lokalni Dynamics 365 Business Central (moderne smernice)
+  description: Lokalni Dynamics 365 Business Central (moderne smernice) prati moderne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871898"
-name: Dynamics 365 poslovni prostori (savremena politika)
+name: Lokalni Dynamics 365 Business Central (moderne smernice)
 summary: >+
-  Dynamics 365 poslovni prostor (savremena politika) prati [savremenu](/lifecycle/policies/modern) politiku životnog ciklusa.
+  Lokalni Dynamics 365 Business Central (moderne smernice) prati [moderne](/lifecycle/policies/modern) smernice životnog ciklusa.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 Vodič](https://aka.ms/businessappsreleasenotes)\n* [Sistemski zahtevi](/dynamics365/business-central/product-requirements)\n* [Najčešća pitanja](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Vodič za Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Sistemski zahtevi](/dynamics365/business-central/product-requirements)\n* [Najčešća pitanja](/dynamics365/business-central/dev-itpro/faq)"
