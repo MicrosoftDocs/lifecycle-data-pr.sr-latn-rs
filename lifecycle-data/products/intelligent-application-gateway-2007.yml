@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft inteligentna kapija aplikacije 2007
-  description: Microsoft inteligentna kapija aplikacije 2007 prati smernice za životni ciklus.
+  title: Microsoft Intelligent Application Gateway 2007
+  description: Microsoft Intelligent Application Gateway 2007 prati fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837203"
-name: Microsoft inteligentna kapija aplikacije 2007
+name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Microsoft inteligentna kapija aplikacije 2007 prati [smernice za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Intelligent Application Gateway 2007 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Veze \n* [Microsoft inteligentan mrežni prolaz za aplikaciju 2007 Vodič](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za Microsoft Intelligent Application Gateway 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)"

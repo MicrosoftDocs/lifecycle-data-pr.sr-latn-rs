@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server za skladištenje 2008 ugrađen
-  description: Windows Server za skladištenje 2008 ugrađen je nakon pravila o osnovnom životnom ciklusu.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded prati fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836615"
-name: Windows Server za skladištenje 2008 ugrađen
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Server za skladištenje 2008 ugrađen je nakon pravila o [osnovnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Windows Storage Server 2008 Embedded prati [fiksne](/lifecycle/policies/fixed) smernice o životnom ciklusu.
 
 
-  Ovo se primenjuje na sledeće izdanja: 32 bit, 64 bitni, Basic, Basic 32-bitni, Enterprise, standard, radna grupa
+  Ovo se odnosi na sledeća izdanja: 32-bitni, 64-bitni, Basic, Basic 32-bitni, Enterprise, Standard, radna grupa
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Ovaj proizvod je dostigao kraj podrške. Pogledajte dolenavedena uputstva za migraciju.\n\n## <a name=\"editions\"></a>Izdanja \n* 32 bita\n* 64 bita\n* Osnovne\n* Basic 32-bitni\n* Enterprise\n* Standardni\n* Radna grupa"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Ovaj proizvod je stigao do kraja podrške. Pogledajte dolenavedena uputstva za migraciju.\n\n## <a name=\"editions\"></a>Izdanja \n* 32 bita\n* 64 bita\n* Basic\n* Basic 32-bitni\n* Enterprise\n* Standard\n* Radna grupa"

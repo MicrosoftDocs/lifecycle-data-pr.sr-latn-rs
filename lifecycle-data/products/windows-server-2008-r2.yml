@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008 R2
-  description: Windows Server 2008 R2 sledi smernice za životni ciklus.
+  description: Windows Server 2008 R2 sledi fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837336"
 name: Windows Server 2008 R2
-summary: "Windows Server 2008 R2 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.\n\nOvo se primenjuje na sledeće izdanje: Datacenter, Enterprise, HPC Edition, sistemi zasnovane na Itanium arhitekturi, standard, Web\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju. \n"
+summary: "Windows Server 2008 R2 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa. \n\nOvo se odnosi na sledeća izdanja: Datacentar, Enterprise, HPC izdanje, sistemi zasnovani na itanijumskim procesorima, Standard, veb\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://aka.ms/AA1ovn4)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n* [Prošireni program za ažuriranje bezbednosti (ESU)](/lifecycle/faq/extended-security-updates)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Proširene bezbednosne ispravke (ESU) dostupne su kroz određene programe za količinsko licenciranje za Datacenter, standard, Enterprise i ugrađene izdanja ovih izdanja proizvoda, u poslednje tri godine, u odnosu na kraj podrške. Obratite se Microsoft partneru ili timu naloga da biste saznali više. \n\nDatum početka-------------------------------izdavanja----datum završetka\n\nProširena bezbednosna ispravka godine 3---01/11/2022---01/10/2023\n\nProširena bezbednosna ispravka godine 2---01/12/2021---01/11/2022\n\nProširena bezbednosna ispravka godine 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Enterprise\n* HPC Edition\n* Sisteme zasnovane na Itanium arhitekturi\n* Standardni\n* Web"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://aka.ms/AA1ovn4)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n* [Prošireni program za bezbednosne ispravke (ESU)](/lifecycle/faq/extended-security-updates)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Proširena bezbednosna ažuriranja (ESU) dostupna su kroz posebne programe količinskog licenciranja za Datacenter, Standard, Enterprise i Embedded izdanja ovog proizvoda, tokom najviše tri dodatne godine nakon kraja podrške. Obratite se Microsoft partneru ili timu naloga da biste saznali više. \n\nIzdanje-------------------------------Datum početka----Datum završetka\n\nProšireno bezbednosno ažuriranje, 3 godine---11.01.2022.---10.01.2023.\n\nProšireno bezbednosno ažuriranje, 2 godine---12.01.2021.---11.01.2022.\n\nProšireno bezbednosno ažuriranje, 1 godina---14.01.2020.---12.01.2021.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Enterprise\n* HPC izdanje\n* Sistemi zasnovani na itanijumskim procesorima\n* Standard\n* Veb"
