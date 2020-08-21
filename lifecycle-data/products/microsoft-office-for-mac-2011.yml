@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office za Mac 2011
-  description: Microsoft Office za Mac 2011 sledi smernice za životni ciklus.
+  description: Microsoft Office za Mac 2011 sledi fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861911"
 name: Microsoft Office za Mac 2011
 summary: >+
-  Microsoft Office za Mac 2011 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office za Mac 2011 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeće izdanja: akademska, kućna i poslovna, kućna i poslovna kućna upotreba, kuća i student, standard
+  Ovo se odnosi na sledeća izdanja: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Glavna podrška za Microsoft Office za Mac 2011 je proširena kao što je prikazano da bi se svim kupcima obezbedio standardni vremenski okvir za prelaz životnog ciklusa.\n\n## <a name=\"editions\"></a>Izdanja \n* Akademski\n* Kućna i poslovna\n* Program za kućnu i poslovnu upotrebu\n* Dom i student\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Osnovna podrška za Microsoft Office za Mac 2011 je proširena kao što je prikazano da bi se svim kupcima pružio vremenski okvir za prelaz na standardni životni ciklus.\n\n## <a name=\"editions\"></a>Izdanja \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

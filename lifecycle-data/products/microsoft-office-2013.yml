@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2013
-  description: Microsoft Office 2013 sledi smernice za životni ciklus.
+  description: Microsoft Office 2013 sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862257"
 name: Microsoft Office 2013
 summary: >+
-  Microsoft Office 2013 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office 2013 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeće izdanja: Home i poslovni, domaći i studentski, profesionalni, profesionalni Plus, profesionalni plus program za kućnu upotrebu, standardni, Web Apps server
+  Ovo se odnosi na sledeća izdanja: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Servisni paket 1 se ne primenjuje na server Web Apps Edition. \n\n## <a name=\"editions\"></a>Izdanja \n* Kućna i poslovna\n* Dom i student\n* Profesionalni\n* Profesionalni plus\n* Profesionalni plus program za kućnu upotrebu\n* Standardni\n* Server Web aplikacija"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Servisni paket 1 se ne primenjuje na izdanje Web Apps Server. \n\n## <a name=\"editions\"></a>Izdanja \n* Home and Business\n* Home and Student\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"

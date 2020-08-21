@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Home i pro
-  description: Windows 10 Home i pro prate savremene smernice za životni ciklus.
+  title: Windows 10 Home i Pro
+  description: Windows 10 Home i Pro prate moderne smernice za životni ciklus.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879215"
-name: Windows 10 Home i pro
+name: Windows 10 Home i Pro
 summary: >
-  Windows 10 Home i pro prate [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Windows 10 Home i Pro prate [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeće izdanja: Home, Pro, Pro za obrazovanje, Pro za radne stanice, profesionalne
+  Ovo se odnosi na sledeća izdanja: Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft će nastaviti da podržava bar jedan polugodišnji kanal Windows 10 do oktobra 14, 2025.
+  > Microsoft će nastaviti da podržava bar jedan Windows 10 polugodišnji kanal do 14. oktobra 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Veze \n* [Windows kao usluga (WaaS)](/windows/deployment/update/waas-quick-start)\n* [List sa činjenicama za Windows životni ciklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Najčešća pitanja o životnom ciklusu-Windows proizvodi](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro za radnu stanicu prvi put izdata verzija 1703\n> [!NOTE]\n> Osim ako je odloženo, sledeće ispravke za Windows 10 polugodišnje kanale mogu biti instalirane pre navedenog datuma glavne podrške.\n\n## <a name=\"editions\"></a>Izdanja \n* Kuжi\n* Pro\n* Pro za nastavu\n* Pro za radne stanice\n* Profesionalni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows kao usluga (WaaS)](/windows/deployment/update/waas-quick-start)\n* [List sa činjenicama za Windows životni ciklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Najčešća pitanja o životnom ciklusu - Windows proizvodi](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation prvo je izdat sa verzijom 1703\n> [!NOTE]\n> Ukoliko nisu odložena, naknadna ažuriranja funkcija Windows 10 polugodišnjeg kanala mogu biti instalirana pre navedenog datuma završetka glavne podrške.\n\n## <a name=\"editions\"></a>Izdanja \n* Home\n* Pro \n* Pro for Education\n* Pro for Workstations\n* Professional"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 sledi smernice za životni ciklus.
+  description: Visual Studio 2012 sledi fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862013"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Visual Studio 2012 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanje: agenti, Community 2013, Express za Web, Express za Windows 8, Express za Windows Desktop, kolektor Intellitrasa, Microsoft Azure alatke, Premium, Professional, daljinska alatka, Shell (integrisana), Shell (izolovani), SQL Server alatke za podatke, istraživač timova, test Professional 2013, Ultimate, Visual C++, Windows, ekstenzija za Web alatke
+  Ovo se odnosi na sledeća izdanja: Agenti, Community 2013, Express za veb, Express za Windows 8, Express za Windows stone računare, IntelliTrace kolektor, Microsoft Azure alatke, Premium, Professional, daljinske alatke, Shell (integrisani), Shell (izolovani), SQL Server alatke za podatke, istraživač timova, Test Professional 2013, Ultimate, Visual C++ Redistributable, proširenja veb alatki.
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Visual Studio za životni ciklus i servisiranje](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Zajednica 2013\n* Express za Web\n* Express za Windows 8\n* Express za Windows Desktop\n* -Kolektor Intellitrasa\n* Microsoft Azure alatke\n* Premium\n* Profesionalni\n* Daljinske alatke\n* Ljuska (integrisana)\n* Ljuska (izolovana)\n* SQL Server alatke za podatke\n* Istraživač tima\n* Test Professional 2013\n* Krajnji\n* Vizuelni C++\n* Proširenja Web alata"
+content: "\n## <a name=\"links\"></a>Veze \n* [Životni ciklus i servisiranje Visual Studio proizvoda](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Community 2013\n* Express za veb\n* Express za Windows 8\n* Express za Windows stone računare\n* IntelliTrace kolektor\n* Microsoft Azure alatke\n* Premium\n* Professional\n* Daljinske alatke\n* Shell (integrisani)\n* Shell (izolovani)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"

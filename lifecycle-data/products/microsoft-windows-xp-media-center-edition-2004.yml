@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: Microsoft Windows XP Media Center Edition 2004 prati smernice za fiksnu polisu životnog ciklusa.
+  description: Microsoft Windows XP Media Center Edition 2004 sledi fiksne smernice za životni ciklus.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883501"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
-  Microsoft Windows XP Media Center Edition 2004 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Microsoft Windows XP Media Center Edition 2004 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
   Ovo se odnosi na sledeća izdanja: Media Center
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2003
   endDate: 10/10/2006
-content: "\n\n\n## <a name=\"editions\"></a>Ultimate \n* Media Center"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Media Center"

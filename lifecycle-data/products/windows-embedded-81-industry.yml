@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows ugrađena 8,1 industrija
-  description: Windows ugrađena 8,1 industrija prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06229993442080153b64e34bc290b48b6fc1e05d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Windows ugrađena 8,1 industrija prati fiksnu polisu životnog ciklusa.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862277"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906930"
 name: Windows ugrađena 8,1 industrija
 summary: >+
-  Windows ugrađena 8,1 industrija prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Windows ugrađena 8,1 industrija prati [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: Enterprise, Pro
+  Ovo se odnosi na sledeća izdanja: Enterprise, Pro, Sidelokanje
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu-Windows proizvodi](https://support.microsoft.co/help/18581)\n* [Windows ugrađena 8,1 najčešća pitanja](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Pro"
+content: "\n## <a name=\"links\"></a>Vezi \n* [Najčešća pitanja o životnom ciklusu – Windows proizvodi](https://support.microsoft.co/help/18581)\n* [Windows ugrađeni 8,1 najčešća pitanja](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Ultimate \n* Objedin\n* Zapadnim\n* Sideloganje"

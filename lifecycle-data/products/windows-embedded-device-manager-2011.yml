@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows upravljač ugrađenim uređajima 2011
-  description: Windows upravljač ugrađenim uređajima 2011 prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d201270f62cb33b4d7bd7f8ca6a7c43dfe01f06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows ugrađeni upravljački program uređaja 2011
+  description: Windows ugrađeni upravljač uređajima 2011 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862220"
-name: Windows upravljač ugrađenim uređajima 2011
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906797"
+name: Windows ugrađeni upravljački program uređaja 2011
 summary: >
-  Windows upravljač ugrađenim uređajima 2011 prati smernice [za životni ciklus](/lifecycle/policies/fixed) .
+  Windows ugrađeni upravljač uređajima 2011 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
+
+  Ovo se odnosi na sledeća izdanja: klijent, SDK, server
 
 
   > [!IMPORTANT]
@@ -32,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Vezi \n* [Smernice servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Ultimate \n* Klijent\n* SDK\n* Server"

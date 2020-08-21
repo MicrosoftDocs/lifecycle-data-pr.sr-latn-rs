@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
-  description: Dynamics CRM 2016 (Dynamics 365) sledi pravilo o fiksnom životnom ciklusu.
+  description: Dynamics CRM 2016 (Dynamics 365) sledi fiksne smernice životnog ciklusa.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878796"
 name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
-  Dynamics CRM 2016 (Dynamics 365) sledi pravilo o [fiksnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Dynamics CRM 2016 (Dynamics 365) sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Dynamics 365 program za migraciju](https://dynamics.microsoft.com/migration-program/)\n* [Informacije o podršci](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Dynamics 365 program za migraciju](https://dynamics.microsoft.com/migration-program/)\n* [Informacije o podršci](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)"
