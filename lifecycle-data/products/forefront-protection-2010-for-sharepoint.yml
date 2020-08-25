@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Protection 2010 za SharePoint
+  description: Forefront Protection 2010 za SharePoint prati smernice za fiksnu aplikaciju životnog ciklusa.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908888"
+name: Forefront Protection 2010 za SharePoint
+summary: >+
+  Forefront Protection 2010 za SharePoint prati smernice za [fiksnu](/lifecycle/policies/fixed) aplikaciju životnog ciklusa.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Putokaz za sigurnosne proizvode se promenio. Ovaj proizvod se prekida od 2015 31."

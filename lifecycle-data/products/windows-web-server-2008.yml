@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Veb server 2008
+  description: Windows Veb server 2008 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5a30ae3c7d7139240f057b39103ef126f89a2d13
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908891"
+name: Windows Veb server 2008
+summary: >+
+  Windows Veb server 2008 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+
+
+  Ovo se odnosi na sledeća izdanja: Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 04/29/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/10/2018
+content: "\n\n> [!NOTE]\n> Za Windows Server 2008 servisni paket 2, ovaj proizvod je stigao do kraja podrške za 2020 14.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
