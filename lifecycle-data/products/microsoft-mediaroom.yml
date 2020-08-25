@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediarom
+  description: Microsoft Mediaroom prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907305"
+name: Microsoft Mediarom
+summary: >+
+  Microsoft Mediaroom prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+
+
+  To se odnosi na sledeća izdanja: usluge aplikacije 1,0, Client 2,0, klijent 2,1, server 2,0, server 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson je stekao Microsoft Mediarom proizvoda u 2013. Za više informacija pogledajte saopštenje za [medije](http://www.ericsson.com/news/1691160). Za klijente kojima je potrebna podrška, idite [ovde](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediarom klijent 2,1 je pušten 2011 27. \n\n## <a name=\"editions\"></a>Izdanja \n* Usluge aplikacije 1,0\n* Klijent 2,0\n* Klijent 2,1\n* Server 2,0\n* Server 2,1"
