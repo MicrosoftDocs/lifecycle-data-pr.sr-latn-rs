@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure posveжene servere
+  description: Azure posveжene server prate fiksnu polisu životnog ciklusa.
+  ms.date: 08/27/2020
+  ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
+  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 08/27/2020
+  ms.locfileid: "922994"
+name: Azure posveжene servere
+summary: >+
+  Azure posveжene server prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 08/25/2020
+  end: 10/14/2025
+  extendedEnd: 10/08/2030
+releases:
+- version: Original Release
+  startDate: 08/25/2020
+  endDate: 10/08/2030
+content: ''
