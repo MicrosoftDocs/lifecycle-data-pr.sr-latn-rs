@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Microsoft Visual Studio 2005 sledi fiksne smernice životnog ciklusa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "836497"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893180"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o Visual J# podršci](https://msdn.microsoft.com/vstudio/bb188593)\n* [Smernice za migracije](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacije o proizvodu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition za profesionalce za baze podataka izdat je 2. marta 2007.\n\n## <a name=\"editions\"></a>Izdanja \n* Professional\n* Standard\n* Standard Edition sa akademskom licencom\n* Team Edition za profesionalce za baze podataka\n* Team Edition za arhitekte softvera\n* Team Edition za projektante softvera\n* Team Edition za testere softvera\n* Team Suite\n* Team Test Load Agent\n* Alatke za sistem Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C ++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacije o Visual J# podršci](https://msdn.microsoft.com/vstudio/bb188593)\n* [Informacije o proizvodu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition za profesionalce za baze podataka izdat je 2. marta 2007.\n\n## <a name=\"editions\"></a>Izdanja \n* Professional\n* Standard\n* Standard Edition sa akademskom licencom\n* Team Edition za profesionalce za baze podataka\n* Team Edition za arhitekte softvera\n* Team Edition za projektante softvera\n* Team Edition za testere softvera\n* Team Suite\n* Team Test Load Agent\n* Alatke za sistem Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C ++ Express\n* Visual J# Express\n* Visual Web Developer Express"
