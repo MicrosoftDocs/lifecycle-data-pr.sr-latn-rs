@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Forefront Client bezbednost
   description: Microsoft Forefront Client bezbednost prati bezbednosne smernice životnog ciklusa.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908890"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924270"
 name: Microsoft Forefront Client bezbednost
 summary: >+
   Microsoft Forefront Client bezbednost prati bezbednosne [smernice životnog ciklusa](/lifecycle/policies/fixed) .
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Veze \n* [Zaštita krajnje tačke centra sistema](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Forefront Client bezbednost je obustavljena. Podrška se završava 2015 14. Informacije o definiciji za antivirusu i anti-špijunski softver više neće biti dostupne posle završetka podrške za verziju proizvoda. Proverite zaštitu krajnje tačke sistema centra kao zamenu."
+content: "\n## <a name=\"links\"></a>Veze \n* [Zaštita krajnje tačke centra sistema](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client bezbednost je obustavljena od 2015 14. Informacije o definiciji za antivirusu i anti-špijunski softver više neće biti dostupne posle završetka podrške za verziju proizvoda. Proverite zaštitu krajnje tačke sistema centra kao zamenu."
