@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual FoxPro 9,0
-  description: Microsoft Visual FoxPro 9,0 prati smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e21a4d7b031b3a982181f2bf975886672be36735
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Visual FoxPro 9,0 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 09/01/2020
+  keywords: Professional
+  ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "836650"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929322"
 name: Microsoft Visual FoxPro 9,0
 summary: >+
-  Microsoft Visual FoxPro 9,0 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Visual FoxPro 9,0 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: stručni
+  Ovo se odnosi na sledeća izdanja: Professional
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/22/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Profesionalni"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Professional"

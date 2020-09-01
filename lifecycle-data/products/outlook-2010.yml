@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2010
-  description: Outlook 2010 sledi smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Outlook 2010 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 09/01/2020
+  keywords: Standard,with Business Contact Manager
+  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837019"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928841"
 name: Outlook 2010
 summary: >+
-  Outlook 2010 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Outlook 2010 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: standardno, sa Menadžerom za poslovne kontakte
+  Ovo se odnosi na sledeća izdanja: standardno, sa Menadžerom za poslovne kontakte
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/DeployOffice/office-2010-end-support-roadmap)\n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni\n* sa Menadžerom za poslovne kontakte"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/DeployOffice/office-2010-end-support-roadmap)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard\n* sa uslugom Business Contact Manager"
