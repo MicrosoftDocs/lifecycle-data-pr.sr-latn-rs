@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions--sjajne ravnice 8,0
-  description: Microsoft Business Solutions--sjajni ravnice 8,0 prate smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions--velika ravnica 8,0
+  description: Microsoft Business Solutions--velika polja 8,0 prate fiksnu polisu životnog ciklusa.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837153"
-name: Microsoft Business Solutions--sjajne ravnice 8,0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934687"
+name: Microsoft Business Solutions--velika ravnica 8,0
 summary: >
-  Microsoft Business Solutions--sjajni ravnice 8,0 prate smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Business Solutions--velika polja 8,0 prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: standardni
+  Ovo se odnosi na sledeća izdanja: Standard
 
 
   > [!IMPORTANT]
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
