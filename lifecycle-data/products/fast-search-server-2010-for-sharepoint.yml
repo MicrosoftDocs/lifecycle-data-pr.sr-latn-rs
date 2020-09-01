@@ -2,13 +2,14 @@
 metadata:
   title: FAST Search Server 2010 (za SharePoint, za SharePoint internet sajtove)
   description: FAST Search Server 2010 (za SharePoint, za SharePoint internet sajtove) sledi fiksne smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for SharePoint,for SharePoint Internet Sites
+  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837229"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936167"
 name: FAST Search Server 2010 (za SharePoint, za SharePoint internet sajtove)
 summary: "FAST Search Server 2010 (za SharePoint, za SharePoint internet sajtove) sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.\n\nOvo se primenjuje na sledeća izdanja: za SharePoint, za SharePoint internet sajtove. \n\n"
 products:
