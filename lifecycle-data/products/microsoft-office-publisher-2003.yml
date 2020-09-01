@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Microsoft Office Publisher 2003 sledi smernice za životni ciklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Publisher 2003 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "837088"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930358"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office Publisher 2003 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se primenjuje na sledeće izdanja: standardno, sa digitalnim Imaging
+  Ovo se odnosi na sledeća izdanja: standardno, sa digitalnim snimcima
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standardni\n* sa digitalnim Imaging"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard\n* sa digitalnim snimcima"
