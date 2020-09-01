@@ -2,19 +2,20 @@
 metadata:
   title: Sistem platforme oblaka
   description: Sistem platforme u oblaku prati fiksnu polisu životnog ciklusa.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891894"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932060"
 name: Sistem platforme oblaka
 summary: >+
   Sistem platforme u oblaku prati [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: standardno
+  Ovo se odnosi na sledeća izdanja: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Podrška za sistem platforme za oblake se produžava kao što je prikazano kako bi se svim kupcima obezbedila standardno prelazak životnog ciklusa.\n> [!NOTE]\n> Standard sistema za oblake u oblaku pokrenut 2017 je 18.\n\n## <a name=\"editions\"></a>Ultimate \n* Standardi"
+content: "\n\n> [!NOTE]\n> Podrška za sistem platforme za oblake se produžava kao što je prikazano kako bi se svim kupcima obezbedila standardno prelazak životnog ciklusa.\n> [!NOTE]\n> Standard sistema za oblake u oblaku pokrenut 2017 je 18.\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
