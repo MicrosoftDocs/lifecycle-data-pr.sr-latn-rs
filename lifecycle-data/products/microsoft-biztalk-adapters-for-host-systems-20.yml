@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapteri za host sisteme 2,0
-  description: Microsoft BizTalk adapteri za hostovanje sistema 2,0 prate fiksnu polisu životnog ciklusa.
+  title: Microsoft BizTalk Adapters za Host Systems 2.0
+  description: Microsoft BizTalk Adapters za Host Systems 2.0 sledi fiksne smernice za životni ciklus.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893513"
-name: Microsoft BizTalk adapteri za host sisteme 2,0
+name: Microsoft BizTalk Adapters za Host Systems 2.0
 summary: >+
-  Microsoft BizTalk adapteri za hostovanje sistema 2,0 prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Microsoft BizTalk Adapters za Host Systems 2.0 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Developer, standard
+  Ovo se odnosi na sledeća izdanja: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Vezi \n* [Uputstva za migraciju](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Ultimate \n* Tan\n* Standardi"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Developer\n* Standard"

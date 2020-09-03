@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office komunikacioni Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2 sledi fiksne smernice za životni ciklus.
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885844"
-name: Microsoft Office komunikacioni Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.\n\nTo se odnosi na sledeća izdanja: sve važeće, Enterprise, XMPP mrežni prolaz\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte uputstva za migraciju. \n"
+name: Microsoft Office Communications Server 2007 R2
+summary: "Microsoft Office Communications Server 2007 R2 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.\n\nOvo se odnosi na sledeća izdanja: Sve primenljivo, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte uputstva za migraciju. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Vezi \n* [Uputstva za migraciju](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP mrežni prolaz objavljen u 9/28/2009.\n\n## <a name=\"editions\"></a>Ultimate \n* Sve primenljivo\n* Objedin\n* XMPP mrežni prolaz"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway objavljen 28.9.2009.\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primenljivo\n* Enterprise\n* XMPP Gateway"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: Windows 8 prati stavku fiksne smernice životnog ciklusa.
+  description: Windows 8 sledi fiksne smernice za životni ciklus.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906708"
 name: Windows 8
 summary: >
-  Windows 8 prati [stavku fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
+  Windows 8 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Enterprise, Enterprise N, N, Pro sa programom Media Center, Professional, Professional N, SL
+  Ovo se odnosi na sledeća izdanja: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Podrška za ovaj proizvod je završena. Klijenti moraju da ažuriraju u Windows 8,1 da bi ostali podržani.
+  > Podrška za ovaj proizvod je završena. Korisnici moraju da ažuriraju na Windows 8.1 kako bi zadržali podršku.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Vezi \n* [Najčešća pitanja o životnom ciklusu – Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Ultimate \n* Objedin\n* Enterprise N\n* Anija\n* Pro sa programom Media Center\n* Professional\n* Professional N\n* NAJNOVIJIH"
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"
