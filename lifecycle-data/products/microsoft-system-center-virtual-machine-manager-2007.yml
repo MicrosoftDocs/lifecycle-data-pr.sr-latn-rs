@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravljač virtualnog mašinskog sistema za Microsoft System Center 2007
-  description: Upravljač virtualnom mašinom za Microsoft System Center 2007 prati smernice za životni ciklus.
+  title: Microsoft System Center Virtual Machine Manager 2007
+  description: Microsoft System Center Virtual Machine Manager 2007 sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837051"
-name: Upravljač virtualnog mašinskog sistema za Microsoft System Center 2007
+name: Microsoft System Center Virtual Machine Manager 2007
 summary: >
-  Upravljač virtualnom mašinom za Microsoft System Center 2007 prati smernice [za životni ciklus](/lifecycle/policies/fixed) .
+  Microsoft System Center Data Protection Manager 2007 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://blogs.technet.microsoft.com/scvmm/2017/01/10/system-center-virtual-machine-manager-2007-version-nearing-end-of-support/)"

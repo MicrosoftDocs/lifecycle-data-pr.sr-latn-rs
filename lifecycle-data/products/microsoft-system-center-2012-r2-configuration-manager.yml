@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravljač konfiguracije Microsoft System Center 2012 R2
-  description: Upravljač konfiguracije sistema Microsoft System Center 2012 R2 sledi pravilo o osnovnom životnom ciklusu.
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861910"
-name: Upravljač konfiguracije Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  Upravljač konfiguracije sistema Microsoft System Center 2012 R2 sledi pravilo o [osnovnom](/lifecycle/policies/fixed) životnom ciklusu.
+  Microsoft System Center 2012 R2 Configuration Manager sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija za upravljača konfiguracije](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija za Configuration Manager](/mem/configmgr/core/misc/online-documentation)"

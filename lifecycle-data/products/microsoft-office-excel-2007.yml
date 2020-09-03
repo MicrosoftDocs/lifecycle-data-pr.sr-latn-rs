@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Excel 2007
-  description: Microsoft Office Excel 2007 sledi smernice za životni ciklus.
+  description: Microsoft Office Excel 2007 sledi fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
   ms.openlocfilehash: fc9de7b0c021adafe412b797fc40b821dd5d7a4f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836765"
 name: Microsoft Office Excel 2007
 summary: >+
-  Microsoft Office Excel 2007 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office Excel 2007 prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se primenjuje na sledeće izdanja: Home and student, standard
+  Ovo se odnosi na sledeća izdanja: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Dom i student\n* Standardni"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Home and Student\n* Standard"

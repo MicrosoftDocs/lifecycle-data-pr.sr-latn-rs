@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 Orchestrator
-  description: Microsoft System Center 2012 Orchestrator sledi smernice za fiksno životni ciklus.
+  description: Microsoft System Center 2012 Orchestrator prati fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862023"
 name: Microsoft System Center 2012 Orchestrator
 summary: >+
-  Microsoft System Center 2012 Orchestrator sledi smernice za [Fiksno](/lifecycle/policies/fixed) životni ciklus.
+  Microsoft System Center 2012 Orchestrator prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernica servisnog paketa](/lifecycle/policies/fixed#service-packs)\n* [Dokumentacija sistemskog centra](/system-center/#pivot=components&panel=components-all)\n* [Resursi sistemskog centra](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentacija](/system-center/#pivot=components&panel=components-all)\n* [System Center resursi](https://www.microsoft.com/system-center/resources)"
