@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Designer 2013
-  description: SharePoint Designer 2013 prati smernice za životni ciklus.
+  description: SharePoint Designer 2013 sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862115"
 name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 prati smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  SharePoint Designer 2013 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se primenjuje na sledeće izdanja: dizajner
+  Ovo se odnosi na sledeća izdanja: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Veze \n* [Detalji podrške](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Podrška za Microsoft SharePoint Designer 2013 se proširuje na način prikazan da bi se osigurala kompatibilnost sa SharePoint serverom 2016.\n\n## <a name=\"editions\"></a>Izdanja \n* Dizajner"
+content: "\n## <a name=\"links\"></a>Veze \n* [Detalji podrške](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Podrška za Microsoft SharePoint Designer 2013 je produžena kao što je prikazano kako bi se osigurala kompatibilnost sa platformom SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Izdanja \n* Designer"

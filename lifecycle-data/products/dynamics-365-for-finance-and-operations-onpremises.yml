@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamika 365 za finansije i operacije (na prostoru)
-  description: Dinamika 365 za finansije i operacije (na jednom prostoru) sledi savremena politika životnog ciklusa.
+  title: Dinamika 365 za finansije i operacije (na lokalnom nivou)
+  description: Dynamics 365 for Finance and Operations (lokalni) prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026c1a37c7e772e8a9982c4c0190ae4d44e24ea3
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871892"
-name: Dinamika 365 za finansije i operacije (na prostoru)
+name: Dinamika 365 za finansije i operacije (na lokalnom nivou)
 summary: >+
-  Dinamika 365 za finansije i operacije (na jednom prostoru) sledi [savremena](/lifecycle/policies/modern) politika životnog ciklusa.
+  Dynamics 365 for Finance and Operations (lokalni) prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
-  Ovo se primenjuje na sledeće izdanja: Enterprise
+  Ovo se odnosi na sledeća izdanja: Enterprise
 
 products:
 - dynamics
