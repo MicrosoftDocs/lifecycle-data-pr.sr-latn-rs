@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3,1
+  description: Groove 3,1 prati smernice za fiksnu polisu životnog ciklusa.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950867"
+name: Groove 3,1
+summary: >+
+  Groove 3,1 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+
+
+  To se odnosi na sledeća izdanja: Enterprise Backup usluge, Enterprise Data Bridge, server za preduzeća za razmenu, hostovane upravljanje uslugama, hostovane usluge prenosa, Office Project, virtuelna Office deljenje datoteka, virtualni Office Professional, izrada Veb usluga
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Usluga Enterprise Backup\n* Enterprise most\n* Server za Enterprise relej\n* Hostovane usluge upravljanja\n* Hostovane usluge za prenos\n* Office Project\n* Virtuelna Office datoteka\n* Virtuelni Office Professional\n* Komplet za razvoj Veb usluga"
