@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Izraz 3
-  description: Expression 3 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Expression 3
+  description: Expression 3 sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930765"
-name: Izraz 3
+name: Expression 3
 summary: >+
-  Expression 3 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Expression 3 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: dizajn, kodiranje, studio, Veb
+  Ovo se odnosi na sledeća izdanja: Design, Encoder, Studio, veb
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Datum početka ekspresije 3 je 19 novembar, 2009. \n\n## <a name=\"editions\"></a>Izdanja \n* Ra\n* Encoder\n* Jera\n* Veb"
+content: "\n\n> [!NOTE]\n> Datum početka za Expression Design 3 jeste 19. novembar 2009. \n\n## <a name=\"editions\"></a>Izdanja \n* Design\n* Encoder\n* Studio\n* Veb"

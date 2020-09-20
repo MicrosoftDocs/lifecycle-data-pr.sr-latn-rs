@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 365 (Enterprise, vlada, obrazovanje)
-  description: Office 365 (Enterprise, vlada, obrazovanje) sledi savremena politika životnog ciklusa.
+  title: Office 365 (Enterprise, Government, Education)
+  description: Office 365 (Enterprise, Government, Education) prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862021"
-name: Office 365 (Enterprise, vlada, obrazovanje)
+name: Office 365 (Enterprise, Government, Education)
 summary: >+
-  Office 365 (Enterprise, vlada, obrazovanje) sledi [savremena](/lifecycle/policies/modern) politika životnog ciklusa.
+  Office 365 (Enterprise, Government, Education) prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinamika SL 6,5
-  description: Dinamika SL 6,5 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Dynamics SL 6,5
+  description: Dynamics SL 6.5 sledi fiksne smernice životnog ciklusa.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894848"
-name: Dinamika SL 6,5
+name: Dynamics SL 6,5
 summary: >+
-  Dinamika SL 6,5 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Dynamics SL 6.5 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
 products:
@@ -33,4 +33,4 @@ releases:
 - version: Original Relase
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Vezi \n* [Smernice servisnog paketa](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)"
