@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 poslovni centar
-  description: Dynamics 365 poslovni centar prati savremene smernice za životni ciklus.
+  title: Dynamics 365 Business Central
+  description: Dynamics 365 Business Central prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862087"
-name: Dynamics 365 poslovni centar
+name: Dynamics 365 Business Central
 summary: >+
-  Dynamics 365 poslovni centar prati [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Dynamics 365 Business Central prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Veze \n* [Microsoft Dynamics 365 Vodič](https://aka.ms/businessappsreleasenotes)\n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/faq)\n* [Sistemski zahtevi](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informacije o servisiranju](/dynamics365/business-central/dev-itpro/faq)\n* [Sistemski zahtevi](/dynamics365/business-central/product-requirements)"

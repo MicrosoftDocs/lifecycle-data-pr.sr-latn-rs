@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Jezgro entitetskog okvira
-  description: Je jezgro entiteta usledilo nakon moderne politike životnog ciklusa.
+  title: Entity Framework Core
+  description: Entity Framework Core prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862147"
-name: Jezgro entitetskog okvira
+name: Entity Framework Core
 summary: >+
-  Je jezgro entiteta usledilo nakon [moderne](/lifecycle/policies/modern) politike životnog ciklusa.
+  Entity Framework Core prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu-.NET Core](/lifecycle/faq/dotnet-core)\n* [Informacije o servisiranju](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET Vodič](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu – .NET Core](/lifecycle/faq/dotnet-core)\n* [Informacije o servisiranju](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET plan](https://github.com/dotnet/core/blob/master/roadmap.md)"
