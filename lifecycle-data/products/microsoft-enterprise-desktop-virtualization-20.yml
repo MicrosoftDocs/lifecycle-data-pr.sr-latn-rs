@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise virtuelizacija 2,0
-  description: Microsoft Enterprise virtuelna radna površina 2,0 prati Office smernice životnog ciklusa.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 prati fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933910"
-name: Microsoft Enterprise virtuelizacija 2,0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  Microsoft Enterprise virtuelna radna površina 2,0 prati Office smernice [životnog ciklusa.](/lifecycle/policies/fixed)
+  Microsoft Enterprise Desktop Virtualization 2.0 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
   Ovo se odnosi na sledeća izdanja: Enterprise
