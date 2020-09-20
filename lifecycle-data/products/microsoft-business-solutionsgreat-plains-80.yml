@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions--velika ravnica 8,0
-  description: Microsoft Business Solutions--velika polja 8,0 prate fiksnu polisu životnog ciklusa.
+  title: Microsoft Business Solutions – Great Plains 8.0
+  description: Microsoft Business Solutions – Great Plains 8.0 sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934687"
-name: Microsoft Business Solutions--velika ravnica 8,0
+name: Microsoft Business Solutions – Great Plains 8.0
 summary: >
-  Microsoft Business Solutions--velika polja 8,0 prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Microsoft Business Solutions – Great Plains 8.0 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
   Ovo se odnosi na sledeća izdanja: Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Podrška za ovaj proizvod je završena 13 oktobra, 2009
+  > Podrška za ovaj proizvod je završena 13. oktobra 2009.
 products:
 - dynamics
 policyType: fixed-mainstream-only

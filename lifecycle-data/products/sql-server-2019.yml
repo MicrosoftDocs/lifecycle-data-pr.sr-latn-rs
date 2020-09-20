@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2019
-  description: SQL Server 2019 prati smernice za fiksnu polisu životnog ciklusa.
+  description: SQL Server 2019 sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937980"
 name: SQL Server 2019
 summary: >+
-  SQL Server 2019 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  SQL Server 2019 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: na Linux (sva izdanja), u operativnom sistemu Windows (sva izdanja)
+  Ovo se odnosi na sledeća izdanja: na Linuxu (sva izdanja), na Windowsu (sva izdanja)
 
 products:
 - sql-server
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Izdanja \n* na Linux (sva izdanja)\n* u operativnom sistemu Windows (sva izdanja)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Izdanja \n* na Linuxu (sva izdanja)\n* na Windowsu (sva izdanja)"

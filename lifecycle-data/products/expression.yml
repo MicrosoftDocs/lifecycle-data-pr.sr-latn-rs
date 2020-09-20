@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Izjave
-  description: Izraz prati stavku fiksne smernice životnog ciklusa.
+  title: Expression
+  description: Expression sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936241"
-name: Izjave
-summary: "Izraz prati [stavku fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.\n\nOvo se odnosi na sledeća izdanja: miks, dizajn, kodiranje, studio\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
+name: Expression
+summary: "Expression sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.\n\nOvo se odnosi na sledeća izdanja: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Datum početka za argument Expression 2007. \n\n## <a name=\"editions\"></a>Izdanja \n* Linom\n* Ra\n* Encoder\n* Jera"
+content: "\n\n> [!NOTE]\n> Datum početka za Expression Blend je 13. jul 2007. \n\n## <a name=\"editions\"></a>Izdanja \n* Blend\n* Design\n* Encoder\n* Studio"
