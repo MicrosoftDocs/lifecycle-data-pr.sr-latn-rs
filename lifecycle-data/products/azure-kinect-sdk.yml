@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Kinect SDK
+  description: Azure Kinect SDK prati savremene smernice životnog ciklusa.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cdaabc601933637a3d23f3738a98995a2966a5b5
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.translationtype: MT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025276"
+name: Azure Kinect SDK
+summary: >+
+  Azure Kinect SDK prati [savremene](/lifecycle/policies/modern) smernice životnog ciklusa.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/27/2019
+releases:
+- version: Original Release
+  startDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/microsoft-support.md)"
