@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server za izveštaje o napajaju
-  description: Server za izveštavanje o napajaju prati savremene smernice za životni ciklus.
+  title: Power BI Report Server
+  description: Power BI Report Server prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871986"
-name: Server za izveštaje o napajaju
+name: Power BI Report Server
 summary: >+
-  Server za izveštavanje o napajaju prati [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Power BI Report Server prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:

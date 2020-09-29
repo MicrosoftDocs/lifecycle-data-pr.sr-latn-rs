@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Probni agent, kontroler
-  description: Probni agent, kontroler prati smernice životnog ciklusa komponente.
+  title: Test Agent, Controller
+  description: Test Agent, Controller sledi smernice za životni ciklus komponente.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894988"
-name: Probni agent, kontroler
+name: Test Agent, Controller
 summary: >+
-  Probni agent, kontroler prati smernice životnog ciklusa [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Test Agent, Controller sledi smernice za životni ciklus [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

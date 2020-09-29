@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Security za Office Communications server
-  description: Forefront Security za Office komunikacioni server prati fiksne smernice životnog ciklusa.
+  title: Forefront Security za Office Communications Server
+  description: Forefront Security za Office Communications Server prati fiksne smernice za životni ciklus.
   ms.date: 08/21/2020
   ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908887"
-name: Forefront Security za Office Communications server
+name: Forefront Security za Office Communications Server
 summary: >+
-  Forefront Security za Office komunikacioni server prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
+  Forefront Security za Office Communications Server prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 06/09/2009
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Putokaz za sigurnosne proizvode se promenio. Ovaj proizvod se prekida od 2015 31."
+content: "\n\n> [!NOTE]\n> Plan za bezbednosne proizvode pod brendom Forefront se promenio.  Ovaj proizvod se obustavlja od 31.decembra 2015.\n\n\n"
