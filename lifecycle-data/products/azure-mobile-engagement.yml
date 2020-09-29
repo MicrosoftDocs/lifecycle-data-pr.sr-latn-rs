@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azurno mobilne angažovanje
-  description: Verno mobilne angažovanje je usledilo posle moderne politike životnog ciklusa.
+  title: Azure Mobile Engagement
+  description: Azure Mobile Engagement prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861857"
-name: Azurno mobilne angažovanje
+name: Azure Mobile Engagement
 summary: >+
-  Verno mobilne angažovanje je usledilo posle [moderne](/lifecycle/policies/modern) politike životnog ciklusa.
+  Azure Mobile Engagement prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:

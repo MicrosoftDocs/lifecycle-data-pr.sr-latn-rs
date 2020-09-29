@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2015
-  description: Dynamics NAV 2015 sledi smernice za životni ciklus.
+  description: Dynamics NAV 2015 sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d8e88321e72a0c59e0d5f43b938b8eb14b912a58
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862156"
 name: Dynamics NAV 2015
 summary: >+
-  Dynamics NAV 2015 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Dynamics NAV 2015 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:

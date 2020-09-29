@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft timovi
-  description: Microsoft timovi prate savremene smernice za životni ciklus.
+  title: Microsoft Teams
+  description: Microsoft Teams prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "862240"
-name: Microsoft timovi
+name: Microsoft Teams
 summary: >+
-  Microsoft timovi prate [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Microsoft Teams prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:

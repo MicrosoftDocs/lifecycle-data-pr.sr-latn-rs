@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tkanina za Azure usluge
-  description: Tkanina za Azure uslugu prati savremene smernice za životni ciklus.
+  title: Azure Service Fabric
+  description: Azure Service Fabric prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861806"
-name: Tkanina za Azure usluge
+name: Azure Service Fabric
 summary: >+
-  Tkanina za Azure uslugu prati [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Azure Service Fabric prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
