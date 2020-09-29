@@ -1,16 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure planer
-  description: "\"Azure\" Planer sledi nakon modernih smernica za životni ciklus."
+  description: Azure Scheduler prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861804"
 name: Azure planer
-summary: "\"Azure\" Planer sledi nakon [modernih](/lifecycle/policies/modern) smernica za životni ciklus.\n\n\n"
+summary: >+
+  Azure Scheduler prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
 products:
 - azure
 policyType: modern-online
@@ -21,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Veze \n* [Vodič za migraciju](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

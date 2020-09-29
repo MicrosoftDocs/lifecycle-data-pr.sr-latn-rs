@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Server na lokaciji Office Online
-  description: Office Online server je usledio nakon savremene smernice za životni ciklus.
+  title: Office Online Server
+  description: Office Online Server prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "861904"
-name: Server na lokaciji Office Online
+name: Office Online Server
 summary: >+
-  Office Online server je usledio nakon [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Office Online Server prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
