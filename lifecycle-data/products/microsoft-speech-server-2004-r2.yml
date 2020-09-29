@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft govorna server 2004 R2
-  description: Microsoft govorna server 2004 R2 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Microsoft Speech Server 2004 R2
+  description: Microsoft Speech Server 2004 R2 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937055"
-name: Microsoft govorna server 2004 R2
+name: Microsoft Speech Server 2004 R2
 summary: >+
-  Microsoft govorna server 2004 R2 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Microsoft Speech Server 2004 R2 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
   Ovo se odnosi na sledeća izdanja: Enterprise, Standard

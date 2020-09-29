@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync 2010
-  description: Microsoft Lync 2010 prati smernice za fiksnu polisu životnog ciklusa.
+  description: Microsoft Lync 2010 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933466"
 name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Microsoft Lync 2010 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  To se odnosi na sledeća izdanja: učesnik, učesnik, grupno ćaskanje, standardno
+  Ovo se odnosi na sledeća izdanja: Attendant, Attendee, Group Chat, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Sluga\n* Učesnika\n* Grupno ćaskanje\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Attendant\n* Attendee\n* Group Chat\n* Standard"

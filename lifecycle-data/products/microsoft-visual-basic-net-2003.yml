@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Basic .NET 2003
-  description: Microsoft Visual Basic .NET 2003 prati osnovne smernice životnog ciklusa.
+  description: Microsoft Visual Basic .NET 2003 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938165"
 name: Microsoft Visual Basic .NET 2003
 summary: >+
-  Microsoft Visual Basic .NET 2003 prati [osnovne](/lifecycle/policies/fixed) smernice životnog ciklusa.
+  Microsoft Visual Basic .NET 2003 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
   Ovo se odnosi na sledeća izdanja: Standard

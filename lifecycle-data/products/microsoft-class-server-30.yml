@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Class server 3,0
-  description: Microsoft Class 3,0 server prati Office smernice životnog ciklusa.
+  title: Microsoft Class Server 3.0
+  description: Microsoft Class Server 3.0 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934650"
-name: Microsoft Class server 3,0
+name: Microsoft Class Server 3.0
 summary: >+
-  Microsoft Class 3,0 server [prati Office smernice životnog ciklusa](/lifecycle/policies/fixed) .
+  Microsoft Class Server 3.0 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
   Ovo se odnosi na sledeća izdanja: Standard
