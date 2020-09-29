@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuelni Server 2005
-  description: Virtuelni Server 2005 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937906"
-name: Virtuelni Server 2005
+name: Virtual Server 2005
 summary: >+
-  Virtuelni Server 2005 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Virtual Server 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Enterprise, Pack, standard
+  Ovo se odnosi na sledeća izdanja: Enterprise, Management Pack, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Paket za upravljanje\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Enterprise\n* Management Pack\n* Standard"
