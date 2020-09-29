@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Live Communications Server 2003
-  description: Microsoft Office Live Communications Server 2003 sledi smernice za životni ciklus.
+  description: Microsoft Office Live Communications Server 2003 sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7f369f1316b72fd8eaebbe3b48dc0311474e947e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837453"
 name: Microsoft Office Live Communications Server 2003
 summary: >+
-  Microsoft Office Live Communications Server 2003 sledi smernice [za životni](/lifecycle/policies/fixed) ciklus.
+  Microsoft Office Live Communications Server 2003 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:
