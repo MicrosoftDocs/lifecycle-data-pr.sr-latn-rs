@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure usluge oblaka
-  description: Azure usluge oblaka prate savremene smernice za životni ciklus.
+  title: Azure Cloud Services
+  description: Azure Cloud Services prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "837389"
-name: Azure usluge oblaka
+name: Azure Cloud Services
 summary: >+
-  Azure usluge oblaka prate [savremene](/lifecycle/policies/modern) smernice za životni ciklus.
+  Azure Cloud Services prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Veze \n* [Azure gosti OS supportability i informacije o penzijskom politikom](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o podršci i smernicama povlačenja za Azure Guest OS](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

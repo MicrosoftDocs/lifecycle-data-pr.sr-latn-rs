@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Alati za izradu dinamike Mobile
-  description: Alatke za razvoj u sistemu Dynamics Mobile prate smernice za životni ciklus komponenti.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools prati smernice za životni ciklus komponente.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "836811"
-name: Alati za izradu dinamike Mobile
+name: Dynamics Mobile Development Tools
 summary: >+
-  Alatke za razvoj u sistemu Dynamics Mobile prate smernice za životni ciklus [komponenti](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Dynamics Mobile Development Tools prati smernice za životni ciklus [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
