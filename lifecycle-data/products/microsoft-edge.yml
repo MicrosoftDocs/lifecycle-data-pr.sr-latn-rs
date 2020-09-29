@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: Microsoft Edge prati moderne smernice životnog ciklusa.
+  description: Microsoft Edge prati moderne smernice za životni ciklus.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905971"
 name: Microsoft Edge
 summary: >
-  Microsoft Edge prati [moderne](/lifecycle/policies/modern) smernice životnog ciklusa.
+  Microsoft Edge prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 
   > [!IMPORTANT]
 
-  > Imajte u vidu da nasleđena verzija ovog proizvoda završava podršku za 2021. Idite ovde  [da biste](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) saznali više.
+  > Imajte na umu da zastarela verzija ovog proizvoda završava podršku 9. marta 2021. godine. Idite   [ovde](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) da biste naučili više.
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Vezi \n* [Operativni sistemi Microsoft Edge podržani](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Veze \n* [Microsoft Edge - podržani operativni sistemi](/deployedge/microsoft-edge-supported-operating-systems)"

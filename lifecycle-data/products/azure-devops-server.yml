@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure posveжene servere
-  description: Azure posveжene server prate fiksnu polisu životnog ciklusa.
+  title: Azure DevOps Server
+  description: Azure DevOps Server sledi fiksne smernice za životni ciklus.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922994"
-name: Azure posveжene servere
+name: Azure DevOps Server
 summary: >+
-  Azure posveжene server prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Azure DevOps Server sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:

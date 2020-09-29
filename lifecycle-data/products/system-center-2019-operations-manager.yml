@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Upravljač operacijama sistema 2019
-  description: Upravljač operacijama sistema 2019 prati smernice za životni ciklus.
+  title: System Center 2019 Operations Manager
+  description: System Center 2019 Operations Manager sledi fiksne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871943"
-name: Upravljač operacijama sistema 2019
+name: System Center 2019 Operations Manager
 summary: >+
-  Upravljač operacijama sistema 2019 prati smernice za [životni ciklus](/lifecycle/policies/fixed) .
+  System Center 2019 Operations Manager sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:

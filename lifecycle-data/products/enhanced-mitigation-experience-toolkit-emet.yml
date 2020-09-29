@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Poboljšani alatke za iskustvo umanjenja (EMET)
-  description: Poboljšane alatke za iskustvo umanjenja (EMET) prate fiksnu polisu životnog ciklusa.
+  title: Enhanced Mitigation Experience Toolkit (EMET)
+  description: Enhanced Mitigation Experience Toolkit (EMET) prati fiksne smernice za životni ciklus.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905327"
-name: Poboljšani alatke za iskustvo umanjenja (EMET)
+name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  Poboljšane alatke za iskustvo umanjenja (EMET) prate [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Enhanced Mitigation Experience Toolkit (EMET) prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:

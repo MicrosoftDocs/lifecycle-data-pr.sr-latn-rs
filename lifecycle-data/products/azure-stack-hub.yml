@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Čvor "Azure stek"
-  description: Čvor "Azure stek" je usledio nakon moderne smernice za životni ciklus.
+  title: Azure Stack Hub
+  description: Azure Stack Hub prati moderne smernice za životni ciklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871912"
-name: Čvor "Azure stek"
+name: Azure Stack Hub
 summary: >+
-  Čvor "Azure stek" je usledio nakon [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+  Azure Stack Hub prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Veze \n* [Servisiranje informacija i vremenske okvire](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>Veze \n* [informacije o servisiranju i vremenske ose](/azure/azure-stack/azure-stack-servicing-policy)."
