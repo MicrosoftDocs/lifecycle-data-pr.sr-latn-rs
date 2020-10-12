@@ -2,20 +2,20 @@
 metadata:
   title: Windows 10 Home i Pro
   description: Windows 10 Home i Pro prate moderne smernice za životni ciklus.
-  ms.date: 09/01/2020
-  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
-  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 09/22/2020
+  keywords: 
+  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
+  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938387"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "1026900"
 name: Windows 10 Home i Pro
 summary: >
   Windows 10 Home i Pro prate [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Home, Pro, Pro for Education, Pro for Workstations, Professional
+  Ovo se odnosi na sledeća izdanja: Home, Pro, Pro Education, Pro for Workstations
 
 
   > [!IMPORTANT]
@@ -39,9 +39,9 @@ releases:
   endDate: 12/08/2020
 - version: Version 1809
   startDate: 11/13/2018
-  endDate: 05/12/2020
+  endDate: 11/10/2020
 - version: Version 1803
-  startDate: 04/30/2018
+  startDate: 10/17/2017
   endDate: 11/12/2019
 - version: Version 1709
   startDate: 10/17/2017
@@ -58,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Veze \n* [Windows kao usluga (WaaS)](/windows/deployment/update/waas-quick-start)\n* [List sa činjenicama za Windows životni ciklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Najčešća pitanja o životnom ciklusu - Windows proizvodi](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation prvo je izdat sa verzijom 1703\n> [!NOTE]\n> Ukoliko nisu odložena, naknadna ažuriranja funkcija Windows 10 polugodišnjeg kanala mogu biti instalirana pre navedenog datuma završetka glavne podrške.\n\n## <a name=\"editions\"></a>Izdanja \n* Home\n* Pro \n* Pro for Education\n* Pro for Workstations\n* Professional"
+content: "\n## <a name=\"links\"></a>Veze \n* [Windows kao usluga (WaaS)](/windows/deployment/update/waas-quick-start)\n* [List sa činjenicama za Windows životni ciklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Najčešća pitanja o životnom ciklusu - Windows proizvodi](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstations je prvo izdat sa verzijom 1709.\n> [!NOTE]\n> Ukoliko nisu odložena, naknadna ažuriranja funkcija Windows 10 polugodišnjeg kanala mogu biti instalirana pre navedenog datuma završetka glavne podrške.\n\n## <a name=\"editions\"></a>Izdanja \n* Home\n* Pro \n* Pro Education\n* Pro for Workstations"
