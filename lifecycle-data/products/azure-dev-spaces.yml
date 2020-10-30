@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Dev Spaces
+  description: Azure Dev Spaces prati moderne smernice za životni ciklus.
+  ms.date: 10/23/2020
+  keywords: 
+  ms.openlocfilehash: 5515482a34b1ab76c4eeff99285a4ee92208fb74
+  ms.sourcegitcommit: d8b1db284677f98b7bec16144811251ac9a84958
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 10/24/2020
+  ms.locfileid: "1186575"
+name: Azure Dev Spaces
+summary: >+
+  Azure Dev Spaces prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 04/25/2019
+  end: 10/31/2023
+releases:
+- version: Original Release
+  startDate: 04/25/2019
+  endDate: 10/31/2023
+content: "\n\n> [!NOTE]\n> Klijenti bi trebalo da pređu na [Bridge to Kubernetes](https://docs.microsoft.com/azure/dev-spaces/migrate-to-bridge-to-kubernetes), alat za razvoj klijenta."
