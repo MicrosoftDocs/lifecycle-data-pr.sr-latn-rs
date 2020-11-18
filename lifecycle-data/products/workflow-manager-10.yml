@@ -15,7 +15,7 @@ summary: >+
   Workflow Manager 1.0 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: Klijent, Standard
+  Ovo se odnosi na sledeća izdanja: Client, Standard
 
 products:
 - vs
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [SharePoint 2016: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kada je Workflow Manager komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržan u skladu sa datumima završetka podrške za odgovarajuću verziju sistema SharePoint Server.\n\n## <a name=\"editions\"></a>Izdanja \n* Klijent\n* Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [SharePoint 2016: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kada je Workflow Manager komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržan u skladu sa datumima završetka podrške za odgovarajuću verziju sistema SharePoint Server.\n\n## <a name=\"editions\"></a>Izdanja \n* Client\n* Standard"
