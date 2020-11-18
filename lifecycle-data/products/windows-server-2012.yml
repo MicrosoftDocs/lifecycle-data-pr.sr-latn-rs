@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Datacenter, Essentials, eksterno povezivanje, za ugrađene sisteme, Foundation, Standard
+  Ovo se odnosi na sledeća izdanja: Datacenter, Essentials, Eksterno povezivanje, Za ugrađene sisteme, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/windows-server/upgrade/upgrade-overview)\n* [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Glavna i proširena podrška za ovaj proizvod proširena je kako bi se kupcima pružio vremenski okvir za prelaz na standardni životni ciklus. Windows Server Essentials je objavljen 2. januara 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Eksterno povezivanje\n* za ugrađene sisteme\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/windows-server/upgrade/upgrade-overview)\n* [Informacije o proizvodu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Glavna i proširena podrška za ovaj proizvod proširena je kako bi se kupcima pružio vremenski okvir za prelaz na standardni životni ciklus. Windows Server Essentials je objavljen 2. januara 2013.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Eksterno povezivanje\n* Za ugrađene sisteme\n* Foundation\n* Standard"

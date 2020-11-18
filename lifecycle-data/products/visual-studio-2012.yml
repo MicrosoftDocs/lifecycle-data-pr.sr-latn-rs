@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: Agenti, Community 2013, Express za veb, Express za Windows 8, Express za Windows stone računare, IntelliTrace kolektor, Microsoft Azure alatke, Premium, Professional, daljinske alatke, Shell (integrisani), Shell (izolovani), SQL Server alatke za podatke, istraživač timova, Test Professional 2013, Ultimate, Visual C++ Redistributable, proširenja veb alatki.
+  Ovo se odnosi na sledeća izdanja: Agenti, Community 2013, Express za veb, Express za Windows 8, Express za Windows radne površine, IntelliTrace kolektor, Microsoft Azure alatke, Premium, Professional, Daljinske alatke, Shell (integrisani), Shell (izolovani), SQL Server alatke za podatke, Istraživač timova, Test Professional 2013, Ultimate, Visual C++ Redistributable, Proširenja veb alatki.
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [Životni ciklus i servisiranje Visual Studio proizvoda](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Community 2013\n* Express za veb\n* Express za Windows 8\n* Express za Windows stone računare\n* IntelliTrace kolektor\n* Microsoft Azure alatke\n* Premium\n* Professional\n* Daljinske alatke\n* Shell (integrisani)\n* Shell (izolovani)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
+content: "\n## <a name=\"links\"></a>Veze \n* [Životni ciklus i servisiranje Visual Studio proizvoda](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Community 2013\n* Express za veb\n* Express za Windows 8\n* Express za Windows radne površine\n* IntelliTrace kolektor\n* Microsoft Azure alatke\n* Premium\n* Professional\n* Daljinske alatke\n* Shell (integrisani)\n* Shell (izolovani)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
