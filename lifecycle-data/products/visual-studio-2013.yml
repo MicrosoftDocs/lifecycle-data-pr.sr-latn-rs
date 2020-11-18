@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2013 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Agenti, sve, zajednica, Express za veb, Express za Windows, Express za Windows računare, IntelliTrace Collector, SDK za modelovanje, Multibyte MFC Library, Premium, Professional, upravljanje izdanjem, daljinske alatke, SDK, Shell (integrisan), Shell (izolovan), Istraživač timova, Test Profesional, Ultimate, Visual C++ Redistributable, proširenja veb alatki
+  Ovo se odnosi na sledeća izdanja: Agenti, Sve, Zajednica, Express za veb, Express za Windows, Express za Windows radne površine, IntelliTrace Collector, SDK za modelovanje, Multibyte MFC Library, Premium, Professional, Upravljanje izdanjem, Daljinske alatke, SDK, Shell (integrisan), Shell (izolovan), Istraživač timova, Test Profesional, Ultimate, Visual C++ Redistributable, Proširenja veb alatki
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* Zajednica\n* Express za veb\n* Express za Windows\n* Express za Windows stone računare\n* IntelliTrace kolektor\n* SDK za modelovanje\n* Multibyte MFC Library\n* Premium\n* Professional\n* Upravljanje izdanjem\n* Daljinske alatke\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* Zajednica\n* Express za veb\n* Express za Windows\n* Express za Windows radne površine\n* IntelliTrace kolektor\n* SDK za modelovanje\n* Multibyte MFC Library\n* Premium\n* Professional\n* Upravljanje izdanjem\n* Daljinske alatke\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
