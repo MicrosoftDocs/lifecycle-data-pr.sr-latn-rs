@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 sledi fiksne smernice za životni ciklus.
-  ms.date: 09/01/2020
-  keywords: Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: b48b0cf13c8467530d6c24c5eb54371008e4dbdd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 01/08/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
+  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937536"
+  ms.lasthandoff: 01/08/2021
+  ms.locfileid: "1375264"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Agenti, Sve, ASP .NET MVC 4, Express, F# 2.0 Runtime, Upravljanje laboratorijama, Alatke za performanse, Premium, Professional, Professional sa MSDN-om, PSM, Daljinsko otklanjanje grešaka, SDK, Shell (integrisan), Shell (izolovani), Team Agents, Team Explorer, Test Professional, Alatke za Office System 4.0 Runtime, Ultimate, Ultimate sa MSDN-om, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, SDK za vizuelizaciju i modelovanje
+  Ovo se odnosi na sledeća izdanja: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime (VSTO), Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Upravljanje laboratorijama\n* Alatke za performanse\n* Premium\n* Professional\n* Professional sa MSDN-om \n* PSM\n* Daljinsko otklanjanje grešaka\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Alatke za Office System 4.0 Runtime\n* Ultimate\n* Ultimate sa MSDN-om\n* Visual Basic Express\n* Visual C# Express\n* Visual C ++ Express\n* Visual Web Developer Express\n* SDK za vizuelizaciju i modelovanje"
+content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Alatke za performanse\n* Premium\n* Professional\n* Professional sa MSDN-om \n* PSM\n* Daljinsko otklanjanje grešaka\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Alatke za Office System 4.0 Runtime (VSTO)\n* Ultimate\n* Ultimate sa MSDN-om\n* Visual Basic Express\n* Visual C# Express\n* Visual C ++ Express\n* Visual Web Developer Express\n* SDK za vizuelizaciju i modelovanje"
