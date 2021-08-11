@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Visual Studio 2005 sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937610"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497898"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-  Ovo se odnosi na sledeća izdanja: Professional, Standard, Standard Edition sa akademskom licencom, Team Edition za profesionalce za baze podataka, Team Edition za arhitekte softvera, Team Edition za projektante softvera, Team Edition za testere softvera, Team Suite, Team Test Load Agent, alatke za sistem Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Ovo se odnosi na sledeća izdanja: Professional, Standard, akademska licenca za Standard Edition, Team Edition za profesionalce za baze podataka, Team Edition za arhitekte softvera, Team Edition za projektante softvera, Team Edition za softverske testere, Team Suite, Team Test Load Agent, alatke za sistem Microsoft Office, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
