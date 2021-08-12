@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pristup 2010
-  description: Access 2010 prati smernice za fiksnu polisu životnog ciklusa.
+  title: Access 2010
+  description: Access 2010 prati Fiksne smernice za životni životni vek.
   ms.date: 09/21/2020
   keywords: Standard
-  ms.openlocfilehash: ea92b504200afa65f84eb8f1698a80af9cd9b32f
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 02f79941a3504f28bb6438ee299098c4dae530ca3b15e39412968d507f49a341
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025202"
-name: Pristup 2010
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497121"
+name: Access 2010
 summary: >+
-  Access 2010 prati smernice za [fiksnu](/lifecycle/policies/fixed) polisu životnog ciklusa.
+  Access 2010 prati [Fiksne smernice](/lifecycle/policies/fixed) za životni životni vek.
 
 
   Ovo se odnosi na sledeća izdanja: Standard
