@@ -3,29 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 prati fiksne smernice životnog ciklusa.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002790"
+  keywords: null
 name: Workflow Manager 1.0
-summary: >+
+summary: |+
   Workflow Manager 1.0 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
-
-  Ovo se odnosi na sledeća izdanja: Client, Standard
+  Ovo se odnosi na sledeća izdanja: Klijent, Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Veze \n* [SharePoint 2016: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Kada je Workflow Manager komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržan u skladu sa datumima završetka podrške za odgovarajuću verziju sistema SharePoint Server.\n\n## <a name=\"editions\"></a>Izdanja \n* Client\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [SharePoint 2016: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [SharePoint 2013: informacije o servisiranju](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Kada je Workflow Manager komponenta sistema SharePoint Server 2016 ili SharePoint Server 2013, biće podržan u skladu sa datumima završetka podrške za odgovarajuću verziju sistema SharePoint Server.
+
+  ## <a name="editions"></a>Izdanja 
+  * Klijent
+  * Standard

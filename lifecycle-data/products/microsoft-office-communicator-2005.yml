@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005 sledi fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936278"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.\n\nOvo se odnosi na sledeća izdanja: Standard\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. \n"
+summary: |
+  Microsoft Office Communicator 2005 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
+
+  Ovo se odnosi na sledeća izdanja: Standard
+
+  > [!IMPORTANT]
+  > Podrška za ovaj proizvod je završena. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdanja \n* Standard"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Izdanja 
+  * Standard
