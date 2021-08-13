@@ -3,24 +3,32 @@ metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 prati fiksne smernice za životni ciklus.
   ms.date: 09/10/2020
-  keywords: All applicable,Phone
-  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001737"
+  keywords: 'All applicable,Phone'
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.\n\nOvo se odnosi na sledeća izdanja: Sve primenjivo, Telefon\n\n> [!IMPORTANT]\n> Podrška za ovaj proizvod je završena. Pogledajte uputstva za migraciju. \n"
+summary: |
+  Microsoft Office Communicator 2007 R2 prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
+
+  Ovo se odnosi na sledeća izdanja: sva primenjiva, Phone
+
+  > [!IMPORTANT]
+  > Podrška za ovaj proizvod je završena. Pogledajte uputstva za migraciju. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/19/2009
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 03/19/2009
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Sve primenljivo\n* Telefon"
+  - version: Original Release
+    startDate: 03/19/2009
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Smernice za migracije](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Izdanja 
+  * Sve primenljivo
+  * Telefon
