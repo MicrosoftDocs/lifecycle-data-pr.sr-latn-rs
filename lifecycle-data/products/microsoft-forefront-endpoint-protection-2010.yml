@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 prati fiksne smernice životnog ciklusa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "862121"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
 
-
   > [!IMPORTANT]
-
   > Podrška se završila. Pogledajte dolenavedena uputstva za migraciju.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Korisnici moraju da budu u toku sa najnovijim ažuriranjima platforme za zaštitu od malvera da bi imali potpunu podršku. Forefront Endpoint Protection 2010 je obuhvaćen istom politikom životnog ciklusa kao i System Center Configuration Manager 2007 za osnovnu i proširenu podršku."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>Veze 
+  * [Smernice za migracije](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [Informacije o servisiranju](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > Korisnici moraju da budu u toku sa najnovijim ažuriranjima platforme za zaštitu od malvera da bi imali potpunu podršku. Forefront Endpoint Protection 2010 je obuhvaćen istom politikom životnog ciklusa kao i System Center Configuration Manager 2007 za osnovnu i proširenu podršku.

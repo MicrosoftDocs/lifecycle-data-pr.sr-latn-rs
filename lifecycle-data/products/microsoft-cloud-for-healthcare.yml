@@ -3,24 +3,22 @@ metadata:
   title: Microsoft Cloud za zdravstvenu zaštitu
   description: Microsoft Cloud za zdravtsvenu zaštitu prati moderne smernice životnog ciklusa.
   ms.date: 10/28/2020
-  keywords: 
-  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
-  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "1193506"
+  keywords: null
 name: Microsoft Cloud za zdravstvenu zaštitu
-summary: >+
+summary: |+
   Microsoft Cloud za zdravtsvenu zaštitu prati [moderne](/lifecycle/policies/modern) smernice životnog ciklusa.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 10/28/2020
 releases:
-- version: Original Release
-  startDate: 10/28/2020
-content: "\n## <a name=\"links\"></a>Veze \n* [Saznajte više o Microsoft Cloud za zdravtsvenu zaštitu](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Prvi koraci u programu Microsoft Cloud za zdravtsvenu zaštitu](/dynamics365/industry/healthcare/overview)"
+  - version: Original Release
+    startDate: 10/28/2020
+content: |+
+
+  ## <a name="links"></a>Veze 
+  * [Saznajte više o Microsoft Cloud za zdravtsvenu zaštitu](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
+  * [Prvi koraci u programu Microsoft Cloud za zdravtsvenu zaštitu](/dynamics365/industry/healthcare/overview)

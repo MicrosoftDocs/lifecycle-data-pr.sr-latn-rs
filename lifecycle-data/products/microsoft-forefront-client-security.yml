@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security prati fiksne smernice za životni ciklus.
   ms.date: 08/28/2020
-  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
-  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 08/28/2020
-  ms.locfileid: "924270"
 name: Microsoft Forefront Client Security
-summary: >+
+summary: |+
   Microsoft Forefront Client Security prati [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/02/2007
   extendedEnd: 07/14/2015
 releases:
-- version: Original Release
-  startDate: 08/02/2007
-  endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Veze \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security je obustavljen od 14. jula 2015. Ispravke definicija antimalvera i antispajvera više neće biti dostupne od završetka podrške za verziju proizvoda. Molimo vas, ocenite System Center Endpoint Protection kao zamenu."
+  - version: Original Release
+    startDate: 08/02/2007
+    endDate: 07/14/2015
+content: |+
+
+  ## <a name="links"></a>Veze 
+  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
+
+  > [!NOTE]
+  > Forefront Client Security je obustavljen od 14. jula 2015. Ispravke definicija antimalvera i antispajvera više neće biti dostupne od završetka podrške za verziju proizvoda. Molimo vas, ocenite System Center Endpoint Protection kao zamenu.
