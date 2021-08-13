@@ -4,18 +4,18 @@ metadata:
   description: Visual Studio 2013 sledi fiksne smernice za životni ciklus.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937462"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487205"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
-  Ovo se odnosi na sledeća izdanja: Agenti, Sve, Zajednica, Express za veb, Express za Windows, Express za Windows radne površine, IntelliTrace Collector, SDK za modelovanje, Multibyte MFC Library, Premium, Professional, Upravljanje izdanjem, Daljinske alatke, SDK, Shell (integrisan), Shell (izolovan), Istraživač timova, Test Profesional, Ultimate, Visual C++ Redistributable, Proširenja veb alatki
+  Ovo se odnosi na sledeća izdanja: Agenti, sve, zajednica, Express za veb, Express za Windows, Express za Windows računare, IntelliTrace Collector, SDK za modelovanje, Multibyte MFC Library, Premium, Professional, upravljanje izdanjem, daljinske alatke, SDK, Shell (integrisan), Shell (izolovan), Istraživač timova, Test Profesional, Ultimate, Visual C++ Redistributable, proširenja veb alatki
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* Zajednica\n* Express za veb\n* Express za Windows\n* Express za Windows radne površine\n* IntelliTrace kolektor\n* SDK za modelovanje\n* Multibyte MFC Library\n* Premium\n* Professional\n* Upravljanje izdanjem\n* Daljinske alatke\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
+content: "\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdanja \n* Agenti\n* Sve\n* Zajednica\n* Express za veb\n* Express za Windows\n* Express za Windows stone računare\n* IntelliTrace kolektor\n* SDK za modelovanje\n* Multibyte MFC Library\n* Premium\n* Professional\n* Upravljanje izdanjem\n* Daljinske alatke\n* SDK\n* Shell (integrisani)\n* Shell (izolovani)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Proširenja veb alatki"
