@@ -3,29 +3,34 @@ metadata:
   title: Windows Server IoT 2019
   description: Windows Server IoT 2019 prati fiksne smernice životnog ciklusa.
   ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard,Telecommunications
-  ms.openlocfilehash: c4a5890e2ad230275c41bf77dcdb77699f5b8232
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939275"
+  keywords: 'Datacenter,Essentials,Standard,Telecommunications'
 name: Windows Server IoT 2019
-summary: >+
+summary: |+
   Windows Server IoT 2019 prati [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
-
 
   Ovo se odnosi na sledeća izdanja: Datacentar, Essentials, Standard, telekomunikacije
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/04/2019
   end: 01/09/2024
   extendedEnd: 01/09/2029
 releases:
-- version: Original Release
-  startDate: 03/04/2019
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Veze \n* [Najčešća pitanja o životnom ciklusu - Windows proizvodi](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Sve verzije sistem Windows Server IoT 2019 prate životni ciklus sistema Windows Server 2019.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Essentials\n* Standard\n* Telekomunikacije"
+  - version: Original Release
+    startDate: 03/04/2019
+    endDate: 01/09/2029
+content: |
+
+  ## <a name="links"></a>Veze 
+  * [Najčešća pitanja o životnom ciklusu - Windows proizvodi](/lifecycle/faq/windows)
+
+  > [!NOTE]
+  > Sve verzije sistem Windows Server IoT 2019 prate životni ciklus sistema Windows Server 2019.
+
+  ## <a name="editions"></a>Izdanja 
+  * Datacenter
+  * Essentials
+  * Standard
+  * Telekomunikacije
