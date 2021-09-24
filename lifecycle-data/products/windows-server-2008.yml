@@ -2,25 +2,28 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 sledi fiksne smernice za životni ciklus.
-  ms.date: 04/23/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d1c189ee825c9294e0e5161ded5a56a55526066
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504632"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460656"
 name: Windows Server 2008
-summary: >
+summary: >+
   Windows Server 2008 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
+
 
 
   Ovo se odnosi na sledeća izdanja: Datacenter, Datacenter bez tehnologije Hyper-V, Enterprise, Enterprise bez tehnologije Hyper-V, za sisteme zasnovane na itanijumskim procesorima, Foundation, Standard, Standard bez tehnologije Hyper-V, veb
 
 
+
   > [!IMPORTANT]
 
   > Podrška za ovaj proizvod je završena. Pogledajte dolenavedena uputstva za migraciju.
+
 products:
 - windows
 policyType: fixed
@@ -29,11 +32,14 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
 - version: Extended Security Update Year 3
-  startDate: 01/11/2022
+  startDate: 01/12/2022
   endDate: 01/10/2023
 - version: Extended Security Update Year 2
-  startDate: 01/12/2021
+  startDate: 01/13/2021
   endDate: 01/11/2022
 - version: Extended Security Update Year 1
   startDate: 01/14/2020
@@ -44,4 +50,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "> [!TIP]\n> Proširena bezbednosna ažuriranja (ESU) dostupna su kroz posebne programe količinskog licenciranja za Datacenter, Standard, Enterprise i Embedded izdanja ovog proizvoda, tokom najviše tri dodatne godine nakon kraja podrške. Obratite se Microsoft partneru ili timu naloga da biste saznali više. \n\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://aka.ms/AA1ovn4)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n* [Prošireni program za bezbednosne ispravke (ESU)](/lifecycle/faq/extended-security-updates)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation objavljen je 21. maja 2009.\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter bez tehnologije Hyper-V\n* Enterprise\n* Enterprise bez tehnologije Hyper-V\n* za sisteme zasnovane na itanijumskim procesorima\n* Foundation\n* Standard\n* Standard bez tehnologije Hyper-V\n* Veb"
+content: "> [!TIP]\n> Proširena bezbednosna ažuriranja (ESU) dostupna su kroz posebne programe količinskog licenciranja za Datacenter, Standard, Enterprise i Embedded izdanja ovog proizvoda, tokom najviše tri dodatne godine nakon kraja podrške. Obratite se Microsoft partneru ili timu naloga da biste saznali više. \n\n\n## <a name=\"links\"></a>Veze \n* [Smernice za migracije](https://aka.ms/AA1ovn4)\n* [Informacije o nadogradnji servera](/windows-server/upgrade/upgrade-overview)\n* [Prošireni program za bezbednosne ispravke (ESU)](/lifecycle/faq/extended-security-updates)\n* [Smernice za servisne pakete](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Windows Server 2008 Foundation objavljen je 21. maja 2009.\n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter bez tehnologije Hyper-V\n* Enterprise\n* Enterprise bez tehnologije Hyper-V\n* za sisteme zasnovane na itanijumskim procesorima\n* Foundation\n* Standard\n* Standard bez tehnologije Hyper-V\n* Veb"
