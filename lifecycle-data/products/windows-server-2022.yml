@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 sledi fiksne smernice za životni ciklus.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173051"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508031"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 sledi [fiksne](/lifecycle/policies/fixed) smernice za životni ciklus.
 
 
 
-  Ovo se odnosi na sledeća izdanja: Datacenter, Datacenter: Azure Edition, Standard
+  Ovo se odnosi na sledeća izdanja: Datacenter, Datacenter: Azure Edition, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Veze \n* [Najčešće postavljana pitanja o životnom ciklusu - Windows](/lifecycle/faq/windows)\n* [Informacije o proizvodu](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontejneri objavljeni uz Windows Server 2022 prate iste datume životnog ciklusa. \n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
+content: "> [!TIP]\n> Microsoft Edge prati [moderne smernice za životni ciklus](https://docs.microsoft.com/lifecycle/policies/modern). Pogledajte [dokumentaciju životnog veka pregledača Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) da biste proverili kako da ovaj pregledač bude ažuriran i podržan.\n\n\n## <a name=\"links\"></a>Veze \n* [Najčešće postavljana pitanja o životnom ciklusu - Windows](/lifecycle/faq/windows)\n* [Informacije o proizvodu](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontejneri objavljeni uz Windows Server 2022 prate iste datume životnog ciklusa. \n\n\n## <a name=\"editions\"></a>Izdanja \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"
