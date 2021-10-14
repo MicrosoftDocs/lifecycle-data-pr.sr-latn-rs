@@ -2,53 +2,39 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 sledi fiksne smernice životnog ciklusa.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509191"
 name: Visual Studio 2012
-summary: |+
+summary: >+
   Visual Studio 2012 sledi [fiksne](/lifecycle/policies/fixed) smernice životnog ciklusa.
 
-  Ovo se odnosi na sledeća izdanja: Agenti, Community 2013, Express za veb, Express za Windows 8, Express za Windows stone računare, IntelliTrace kolektor, Microsoft Azure alatke, Premium, Professional, daljinske alatke, Shell (integrisani), Shell (izolovani), SQL Server alatke za podatke, istraživač timova, Test Professional 2013, Ultimate, Visual C++ Redistributable, proširenja veb alatki.
+
+
+  Ovo se odnosi na sledeća izdanja: Express for Web, Express for Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>Veze 
-  * [Životni ciklus i servisiranje Visual Studio proizvoda](/visualstudio/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Izdanja 
-  * Agenti
-  * Community 2013
-  * Express za veb
-  * Express za Windows 8
-  * Express za Windows stone računare
-  * IntelliTrace kolektor
-  * Microsoft Azure alatke
-  * Premium
-  * Professional
-  * Daljinske alatke
-  * Shell (integrisani)
-  * Shell (izolovani)
-  * SQL Server Data Tools
-  * Team Explorer
-  * Test Professional 2013
-  * Ultimate
-  * Visual C++ Redistributable
-  * Proširenja veb alatki
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju za starije verzije Visual Studia](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Smernice servisnog paketa](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Verzije sledećih komponenti za Visual Studio 2012 isporučuju se i podržane su kao deo životnog ciklusa Visual Studia 2012: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Izdanja \n* Express za veb\n* Express za Windows stone računare\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
