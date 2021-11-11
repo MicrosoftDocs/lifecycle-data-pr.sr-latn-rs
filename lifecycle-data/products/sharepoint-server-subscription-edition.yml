@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server Subscription Edition
+  description: SharePoint Server Subscription Edition sledi moderne smernice za životni ciklus.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546909"
+name: SharePoint Server Subscription Edition
+summary: >+
+  SharePoint Server Subscription Edition sledi [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Pogledajte dokumentaciju za [proizvode](https://docs.microsoft.com/sharepoint/sharepoint-server) i [programere](https://docs.microsoft.com/sharepoint/dev/)."

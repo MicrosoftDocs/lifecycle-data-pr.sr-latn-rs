@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge prati moderne smernice za životni ciklus.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560072"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Imajte na umu da zastarela verzija ovog proizvoda završava podršku 9. marta 2021. godine. [Ovde](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) možete da saznate više.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Veze 
-  * [Microsoft Edge - podržani operativni sistemi](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Najčešća pitanja o životnom ciklusu - Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Smernice za životni ciklus Microsoft Edge-a](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Microsoft Edge - podržani operativni sistemi](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novi resursi za ubrzanje prelaska na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Najčešća pitanja o životnom ciklusu - Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Smernice za životni ciklus Microsoft Edge-a](/deployedge/microsoft-edge-support-lifecycle)"
