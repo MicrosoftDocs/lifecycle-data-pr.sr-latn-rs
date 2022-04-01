@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service
+  description: Dynamics 365 Field Service prati moderne smernice životnog ciklusa.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157065"
+name: Dynamics 365 Field Service
+summary: >+
+  Dynamics 365 Field Service prati [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Imajte na umu da će se zastarela aplikacija Field Service Mobile (Xamarin) povući 30. juna 2022. Korisnici bi trebalo da migriraju u aplikaciju za mobilne uređaje [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) pre tog datuma. Dodatne informacije potražite u [najčešćim pitanjama o prekidu podrške za uslugu Field Service Mobile Xamarin](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Informacije o proizvodu](/dynamics365/field-service/overview)\n* [Informacije o migraciji aplikacije za mobilne uređaje Dynamics 365 Field Service](https://aka.ms/fsmobile-adoption)"

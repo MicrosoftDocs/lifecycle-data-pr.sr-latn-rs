@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Information Protection classic klijent
+  description: Azure Information Protection classic klijent prati moderne smernice životnog ciklusa.
+  ms.date: 11/17/2021
+  keywords: 
+  ms.openlocfilehash: 440c0337f73f25c109b206264547034b1a4ece68
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157257"
+name: Azure Information Protection classic klijent
+summary: >+
+  Azure Information Protection classic klijent prati [moderne](/lifecycle/policies/modern) smernice životnog ciklusa.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2016-10-01T00:00:00.000-08:00
+  end: 2021-03-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2016-10-01T00:00:00.000-08:00
+  endDate: 2021-03-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Informacije o servisiranju](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Smernice za migracije](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n\n> [!NOTE]\n> Da bi se obezbedilo jedinstveno i pojednostavljeno iskustvo korisnika, Azure Information Protection (Classic) i Label Management na Azure portalu će biti zamenjeni od 31. marta 2021. Ovaj vremenski okvir omogućava svim trenutnim korisnicima usluge Azure Information Protection prelazak na naše jedinstveno rešenje za obeležavanje putem platforme Microsoft Information Protection Unified Labeling."

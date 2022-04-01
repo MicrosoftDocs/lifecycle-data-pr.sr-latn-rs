@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Studio za mašinsko učenje (klasični)
+  description: Studio za mašinsko učenje (klasični) sledi moderne smernice za životni ciklus.
+  ms.date: 11/16/2021
+  keywords: 
+  ms.openlocfilehash: b81ff2080961ea0f8a1ae70a3b0a05fdbc2440e9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: sr-Latn-RS
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157193"
+name: Studio za mašinsko učenje (klasični)
+summary: >+
+  Studio za mašinsko učenje (klasični) sledi [moderne](/lifecycle/policies/modern) smernice za životni ciklus.
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2015-05-18T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2015-05-18T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Veze \n* [Migrirajte u Azure Mašinsko učenje](/azure/machine-learning/migrate-overview)\n\n\n> [!NOTE]\n> Studio mašinsko učenje (klasični) se povlači 31. avgusta 2024. Od 1. decembra 2021. godine, klijenti neće moći da kreiraju nove resurse za Studio mašinsko učenje (klasični). Klijenti treba da pređui na Azure Mašinsko učenje pre avgusta 2024. [Ovde](https://docs.microsoft.com/azure/machine-learning/migrate-overview) možete da saznate više."
