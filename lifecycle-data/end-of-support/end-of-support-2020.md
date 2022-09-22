@@ -1,13 +1,13 @@
 ---
 title: Proizvodi kojima ističe podrška za 2020. godinu
 description: Saznajte koji će proizvodi biti povučeni, stići do kraja podrške ili biti premešteni sa glavne podrške na proširenu podršku u 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117604"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518208"
 ---
 # <a name="products-ending-support-in-2020"></a>Proizvodi kojima ističe podrška u 2020. godini
 
@@ -38,7 +38,7 @@ Sledećim proizvodima, kojima upravljaju [moderne smernice](/lifecycle/policies/
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, verzija 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31. januar 2020. |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | utorak, 03. mart 2020.. |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | petak, 04. septembar 2020.. |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | petak, 04. septembar 2020.. |
 | [Microsoft Endpoint Configuration Manager, verzija 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 27. septembar 2020. |
 | [Visio Services u sistemu SharePoint (u pretplati Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30. septembar 2020. |
 | [Windows 10 Enterprise and Education, verzija 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, verzija 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13. oktobar 2020. |

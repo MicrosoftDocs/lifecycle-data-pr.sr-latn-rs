@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 sledi smernice životnog ciklusa komponente.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: pregledač, IE, ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: sr-Latn-RS
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114385"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518615"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 sledi smernice životnog ciklusa [komponente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -20,7 +20,7 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > Aplikacija za računare Internet Explorer (IE) 11 će ukinuti podršku za Windows 10 polugodišnji kanal počev od 15. juna 2022. godine. Klijenti se podstiču da pređu na Microsoft Edge sa IE režimom. IE režim omogućava kompatibilnost sa prethodnim verzijama i biće podržan najmanje do 2029. godine. Pored toga, Microsoft će poslati obaveštenje godinu dana pre povlačenja IE režima. [Ovde](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) možete videti listu podržanih operativnih sistema za Internet Explorer, uključujući verzije na koje ova najava utiče.
+  > Aplikacija za računare Internet Explorer (IE) 11 ukinula je podršku za Windows 10 polugodišnji kanal počev od 15. juna 2022. godine. Klijenti se podstiču da pređu na Microsoft Edge sa IE režimom. IE režim omogućava kompatibilnost sa prethodnim verzijama i biće podržan najmanje do 2029. godine. Pored toga, Microsoft će poslati obaveštenje godinu dana pre povlačenja IE režima. [Ovde](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) možete videti listu podržanih operativnih sistema za Internet Explorer, uključujući verzije na koje ova najava utiče.
 
 products:
 - internet-explorer
